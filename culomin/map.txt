@@ -1,0 +1,757 @@
+Modules list:
+-------------
+main.o:
+    CODE              Offs=000000  Size=001755  Align=00001  Fill=0000
+    RODATA            Offs=000000  Size=0004BF  Align=00001  Fill=0000
+    BSS               Offs=000000  Size=000393  Align=00001  Fill=0000
+    DATA              Offs=000000  Size=000070  Align=00001  Fill=0000
+gamedata.o:
+    CLM_SEG_CAVES     Offs=000000  Size=000C24  Align=00001  Fill=0000
+    CLM_SEG_CHARSET1  Offs=000000  Size=000400  Align=00001  Fill=0000
+    CLM_SEG_CHARSET2  Offs=000000  Size=000400  Align=00001  Fill=0000
+    CLM_SEG_CAVEDL    Offs=000000  Size=000023  Align=00001  Fill=0000
+    CLM_SEG_RMTSONG   Offs=000000  Size=0002DB  Align=00001  Fill=0000
+    CLM_SEG_RMTPLAYER Offs=000000  Size=000518  Align=00001  Fill=0000
+routines.o:
+    CODE              Offs=001755  Size=0000AC  Align=00001  Fill=0000
+    DATA              Offs=000070  Size=000009  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(_cursor.o):
+    BSS               Offs=000393  Size=000001  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(_hextab.o):
+    RODATA            Offs=0004BF  Size=000010  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(_longminstr.o):
+    RODATA            Offs=0004CF  Size=00000C  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(_printf.o):
+    CODE              Offs=001801  Size=0003A5  Align=00001  Fill=0000
+    BSS               Offs=000394  Size=00002B  Align=00001  Fill=0000
+    DATA              Offs=000079  Size=000003  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(add.o):
+    CODE              Offs=001BA6  Size=00001C  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(addeqsp.o):
+    CODE              Offs=001BC2  Size=000011  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(addysp.o):
+    CODE              Offs=001BD3  Size=00000E  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(aslax3.o):
+    CODE              Offs=001BE1  Size=00000E  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(axlong.o):
+    CODE              Offs=001BEF  Size=00000D  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(callmain.o):
+    CODE              Offs=001BFC  Size=000017  Align=00001  Fill=0000
+    DATA              Offs=00007C  Size=000004  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(cgetc.o):
+    CODE              Offs=001C13  Size=000016  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(clrscr.o):
+    CODE              Offs=001C29  Size=00002A  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(condes.o):
+    CODE              Offs=001C53  Size=00000C  Align=00001  Fill=0000
+    DATA              Offs=000080  Size=000025  Align=00001  Fill=0000
+    ONCE              Offs=000000  Size=00000C  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(cprintf.o):
+    CODE              Offs=001C5F  Size=00002A  Align=00001  Fill=0000
+    BSS               Offs=0003BF  Size=000001  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(cputc.o):
+    CODE              Offs=001C89  Size=000068  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(cputs.o):
+    CODE              Offs=001CF1  Size=000023  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(crt0.o):
+    BSS               Offs=0003C0  Size=000005  Align=00001  Fill=0000
+    STARTUP           Offs=000000  Size=000063  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(ctype.o):
+    RODATA            Offs=0004DB  Size=00008B  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(ctype_preprocessor.o):
+    CODE              Offs=001D14  Size=00001E  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(cursor.o):
+    CODE              Offs=001D32  Size=00000A  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(decax1.o):
+    CODE              Offs=001D3C  Size=000007  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(decsp1.o):
+    CODE              Offs=001D43  Size=000009  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(decsp2.o):
+    CODE              Offs=001D4C  Size=00000D  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(decsp4.o):
+    CODE              Offs=001D59  Size=00000D  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(decsp6.o):
+    CODE              Offs=001D66  Size=00000D  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(exehdr.o):
+    EXEHDR            Offs=000000  Size=000002  Align=00001  Fill=0000
+    MAINHDR           Offs=000000  Size=000004  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(exetrailer.o):
+    AUTOSTRT          Offs=000000  Size=000006  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(get_tv.o):
+    CODE              Offs=001D73  Size=00000E  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(gotoxy.o):
+    CODE              Offs=001D81  Size=000011  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(incax1.o):
+    CODE              Offs=001D92  Size=000007  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(incaxy.o):
+    CODE              Offs=001D99  Size=00000B  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(incsp1.o):
+    CODE              Offs=001DA4  Size=000007  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(incsp2.o):
+    CODE              Offs=001DAB  Size=000016  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(incsp3.o):
+    CODE              Offs=001DC1  Size=000005  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(incsp4.o):
+    CODE              Offs=001DC6  Size=000005  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(kbhit.o):
+    CODE              Offs=001DCB  Size=00000B  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(ldaxsp.o):
+    CODE              Offs=001DD6  Size=000009  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(leaaxsp.o):
+    CODE              Offs=001DDF  Size=00000C  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(lneg.o):
+    CODE              Offs=001DEB  Size=00001E  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(lpush.o):
+    CODE              Offs=001E09  Size=000021  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(ltoa.o):
+    CODE              Offs=001E2A  Size=000095  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(memcpy.o):
+    CODE              Offs=001EBF  Size=00003C  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(memset.o):
+    CODE              Offs=001EFB  Size=00005D  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(mul40.o):
+    CODE              Offs=001F58  Size=000021  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(mul8.o):
+    CODE              Offs=001F79  Size=00003A  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(popa.o):
+    CODE              Offs=001FB3  Size=00000C  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(popptr1.o):
+    CODE              Offs=001FBF  Size=00000E  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(push1.o):
+    CODE              Offs=001FCD  Size=000005  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(pusha.o):
+    CODE              Offs=001FD2  Size=000016  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(pushax.o):
+    CODE              Offs=001FE8  Size=00001A  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(return1.o):
+    CODE              Offs=002002  Size=000005  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(revers.o):
+    CODE              Offs=002007  Size=000016  Align=00001  Fill=0000
+    BSS               Offs=0003C5  Size=000001  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(setcursor.o):
+    CODE              Offs=00201D  Size=00003A  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(staspidx.o):
+    CODE              Offs=002057  Size=000016  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(staxsp.o):
+    CODE              Offs=00206D  Size=00000B  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(strlen.o):
+    CODE              Offs=002078  Size=000016  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(strlower.o):
+    CODE              Offs=00208E  Size=000027  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(subysp.o):
+    CODE              Offs=0020B5  Size=00000D  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(swap.o):
+    CODE              Offs=0020C2  Size=000017  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(system_check.o):
+    SYSCHK            Offs=000000  Size=0000F6  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(system_check_hdr.o):
+    SYSCHKHDR         Offs=000000  Size=000004  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(system_check_trailer.o):
+    SYSCHKTRL         Offs=000000  Size=000006  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(udiv.o):
+    CODE              Offs=0020D9  Size=00004F  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(umod.o):
+    CODE              Offs=002128  Size=000011  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(vcprintf.o):
+    CODE              Offs=002139  Size=00007A  Align=00001  Fill=0000
+    DATA              Offs=0000A5  Size=000008  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(zerobss.o):
+    CODE              Offs=0021B3  Size=000023  Align=00001  Fill=0000
+C:\UTILS\A8\CC65/lib/atari.lib(zeropage.o):
+    ZEROPAGE          Offs=000000  Size=00001A  Align=00001  Fill=0000
+
+
+Segment list:
+-------------
+Name                   Start     End    Size  Align
+----------------------------------------------------
+AUTOSTRT              000000  000005  000006  00001
+CLM_SEG_RMTPLAYER     000000  000517  000518  00001
+CLM_SEG_RMTSONG       000000  0002DA  0002DB  00001
+EXEHDR                000000  000001  000002  00001
+MAINHDR               000000  000003  000004  00001
+SYSCHKHDR             000000  000003  000004  00001
+SYSCHKTRL             000000  000005  000006  00001
+ZEROPAGE              000082  00009B  00001A  00001
+STARTUP               002000  002062  000063  00001
+ONCE                  002063  00206E  00000C  00001
+CODE                  00206F  004244  0021D6  00001
+SYSCHK                002E00  002EF5  0000F6  00001
+RODATA                004245  0047AA  000566  00001
+DATA                  0047AB  004857  0000AD  00001
+CLM_SEG_CHARSET1      004C00  004FFF  000400  00001
+CLM_SEG_CHARSET2      005000  0053FF  000400  00001
+CLM_SEG_CAVEDL        005400  005422  000023  00001
+CLM_SEG_CAVES         005423  006046  000C24  00001
+BSS                   006047  00640C  0003C6  00001
+
+
+Exports list by name:
+---------------------
+_CLM_DATA_CAVEDL          005400 RLA    _CLM_DATA_CAVES           005423 RLA    
+_CLM_DATA_CAVESCREEN      001000 RLA    _CLM_DATA_CHARSET1        004C00 RLA    
+_CLM_DATA_CHARSET2        005000 RLA    _CLM_DATA_PMGAREA         000800 RLA    
+_CLM_DATA_STATUSBARSCREEN 001370 RLA    __AUTOSTART__             000001 REA    
+__BSS_LOAD__              006047 RLA    __BSS_RUN__               006047 RLA    
+__BSS_SIZE__              0003C6 REA    __CONSTRUCTOR_COUNT__     000000 REA    
+__CONSTRUCTOR_TABLE__     00206F RLA    __DESTRUCTOR_COUNT__      000000 REA    
+__DESTRUCTOR_TABLE__      0047AB RLA    __EXEHDR__                000001 REA    
+__LOWCODE_RUN__           002063 RLA    __LOWCODE_SIZE__          000000 REA    
+__MAIN_START__            002000 RLA    __RESERVED_MEMORY__       000000 REA    
+__STACKSIZE__             000800 REA    __STARTADDRESS__          002000 REA    
+__STARTUP__               000001 REA    __SYSCHKHDR__             000001 REA    
+__SYSCHKTRL__             000001 REA    __SYSCHK_END__            002EF6 RLA    
+__SYSCHK_LOAD__           002E00 RLA    __SYSTEM_CHECK__          002E47 REA    
+__bzero                   003F6A RLA    __ctype                   004720 RLA    
+__ctypeIdx                00472B RLA    __hextab                  004704 RLA    
+__longminstr              004714 RLA    __printf                  003963 RLA    
+_asmReboot                00386D RLA    _cgetc                    003C82 RLA    
+_clrscr                   003C98 RLA    _colorStore1              004820 RLA    
+_colorStore2              004821 RLA    _cprintf                  003CCE RLA    
+_cputc                    003CFD RLA    _cputcxy                  003CF8 RLA    
+_cputsxy                  003D60 RLA    _cursor                   003DA1 RLA    
+_dliHandler               0037C4 RLA    _get_tv                   003DE2 RLA    
+_gotoxy                   003DF3 RLA    _kbhit                    003E3A RLA    
+_ltoa                     003EB1 RLA    _main                     00361B RLA    
+_memcpy                   003F2E RLA    _mul40                    003FC7 RLA    
+_mvDelay                  00481F RLA    _requestedSFXCode         004822 RLA    
+_revers                   004076 RLA    _revflag                  00640C RLA    
+_rmtAllStop               003856 RLA    _rmtPlaySFX               00385A RLA    
+_rmtPlaySongLine          00384B RLA    _rmtRestoreVBI            00383F RLA    
+_rmtResume                003867 RLA    _rmtSetVBI                003829 RLA    
+_rmtSuspend               003861 RLA    _songLine                 004823 RLA    
+_strlen                   0040E7 RLA    _strlower                 0040FD RLA    
+_ultoa                    003EF2 RLA    _vcprintf                 0041F2 RLA    
+addeqysp                  003C33 RLA    addysp                    003C43 RLA    
+aslax3                    003C50 RLA    axlong                    003C5E RLA    
+axulong                   003C64 RLA    callmain                  003C6B RLA    
+ctype_preprocessor_no_check 003D87 RLA    cursor                    0063DA RLA    
+decax1                    003DAB RLA    decsp1                    003DB2 RLA    
+decsp2                    003DBB RLA    decsp4                    003DC8 RLA    
+decsp6                    003DD5 RLA    donelib                   003CC2 RLA    
+gotoxy                    003DF0 RLA    incax1                    003E01 RLA    
+incaxy                    003E0A RLA    incsp1                    003E13 RLA    
+incsp2                    003E22 RLA    incsp3                    003E30 RLA    
+incsp4                    003E35 RLA    initlib                   002063 RLA    
+ldax0sp                   003E45 RLA    ldaxysp                   003E47 RLA    
+leaa0sp                   003E4E RLA    negeax                    003E5A RLA    
+popa                      004022 RLA    popax                     003E1A RLA    
+popptr1                   00402E RLA    ptr1                      00008A RLZ    
+ptr2                      00008C RLZ    ptr3                      00008E RLZ    
+ptr4                      000090 RLZ    push0                     004057 RLA    
+push1                     00403C RLA    pusha                     004045 RLA    
+pusha0                    004059 RLA    pushax                    00405B RLA    
+pusheax                   003E81 RLA    regbank                   000096 RLZ    
+return1                   004071 RLA    setcursor                 00408C RLA    
+sp                        000082 RLZ    sreg                      000084 RLZ    
+start                     002001 RLA    staspidx                  0040C6 RLA    
+stax0sp                   0040DC RLA    staxysp                   0040DE RLA    
+subysp                    004124 RLA    swapstk                   004131 RLA    
+tmp1                      000092 RLZ    tmp4                      000095 RLZ    
+tosaddax                  003C17 RLA    tosmula0                  003FE8 RLA    
+tosumoda0                 004197 RLA    tosumula0                 003FE8 RLA    
+udiv16                    004159 RLA    zerobss                   004222 RLA    
+
+
+
+Exports list by value:
+----------------------
+__RESERVED_MEMORY__       000000 REA    __DESTRUCTOR_COUNT__      000000 REA    
+__CONSTRUCTOR_COUNT__     000000 REA    __LOWCODE_SIZE__          000000 REA    
+__AUTOSTART__             000001 REA    __SYSCHKTRL__             000001 REA    
+__STARTUP__               000001 REA    __EXEHDR__                000001 REA    
+__SYSCHKHDR__             000001 REA    sp                        000082 RLZ    
+sreg                      000084 RLZ    ptr1                      00008A RLZ    
+ptr2                      00008C RLZ    ptr3                      00008E RLZ    
+ptr4                      000090 RLZ    tmp1                      000092 RLZ    
+tmp4                      000095 RLZ    regbank                   000096 RLZ    
+__BSS_SIZE__              0003C6 REA    _CLM_DATA_PMGAREA         000800 RLA    
+__STACKSIZE__             000800 REA    _CLM_DATA_CAVESCREEN      001000 RLA    
+_CLM_DATA_STATUSBARSCREEN 001370 RLA    __MAIN_START__            002000 RLA    
+__STARTADDRESS__          002000 REA    start                     002001 RLA    
+initlib                   002063 RLA    __LOWCODE_RUN__           002063 RLA    
+__CONSTRUCTOR_TABLE__     00206F RLA    __SYSCHK_LOAD__           002E00 RLA    
+__SYSTEM_CHECK__          002E47 REA    __SYSCHK_END__            002EF6 RLA    
+_main                     00361B RLA    _dliHandler               0037C4 RLA    
+_rmtSetVBI                003829 RLA    _rmtRestoreVBI            00383F RLA    
+_rmtPlaySongLine          00384B RLA    _rmtAllStop               003856 RLA    
+_rmtPlaySFX               00385A RLA    _rmtSuspend               003861 RLA    
+_rmtResume                003867 RLA    _asmReboot                00386D RLA    
+__printf                  003963 RLA    tosaddax                  003C17 RLA    
+addeqysp                  003C33 RLA    addysp                    003C43 RLA    
+aslax3                    003C50 RLA    axlong                    003C5E RLA    
+axulong                   003C64 RLA    callmain                  003C6B RLA    
+_cgetc                    003C82 RLA    _clrscr                   003C98 RLA    
+donelib                   003CC2 RLA    _cprintf                  003CCE RLA    
+_cputcxy                  003CF8 RLA    _cputc                    003CFD RLA    
+_cputsxy                  003D60 RLA    ctype_preprocessor_no_check 003D87 RLA    
+_cursor                   003DA1 RLA    decax1                    003DAB RLA    
+decsp1                    003DB2 RLA    decsp2                    003DBB RLA    
+decsp4                    003DC8 RLA    decsp6                    003DD5 RLA    
+_get_tv                   003DE2 RLA    gotoxy                    003DF0 RLA    
+_gotoxy                   003DF3 RLA    incax1                    003E01 RLA    
+incaxy                    003E0A RLA    incsp1                    003E13 RLA    
+popax                     003E1A RLA    incsp2                    003E22 RLA    
+incsp3                    003E30 RLA    incsp4                    003E35 RLA    
+_kbhit                    003E3A RLA    ldax0sp                   003E45 RLA    
+ldaxysp                   003E47 RLA    leaa0sp                   003E4E RLA    
+negeax                    003E5A RLA    pusheax                   003E81 RLA    
+_ltoa                     003EB1 RLA    _ultoa                    003EF2 RLA    
+_memcpy                   003F2E RLA    __bzero                   003F6A RLA    
+_mul40                    003FC7 RLA    tosmula0                  003FE8 RLA    
+tosumula0                 003FE8 RLA    popa                      004022 RLA    
+popptr1                   00402E RLA    push1                     00403C RLA    
+pusha                     004045 RLA    push0                     004057 RLA    
+pusha0                    004059 RLA    pushax                    00405B RLA    
+return1                   004071 RLA    _revers                   004076 RLA    
+setcursor                 00408C RLA    staspidx                  0040C6 RLA    
+stax0sp                   0040DC RLA    staxysp                   0040DE RLA    
+_strlen                   0040E7 RLA    _strlower                 0040FD RLA    
+subysp                    004124 RLA    swapstk                   004131 RLA    
+udiv16                    004159 RLA    tosumoda0                 004197 RLA    
+_vcprintf                 0041F2 RLA    zerobss                   004222 RLA    
+__hextab                  004704 RLA    __longminstr              004714 RLA    
+__ctype                   004720 RLA    __ctypeIdx                00472B RLA    
+__DESTRUCTOR_TABLE__      0047AB RLA    _mvDelay                  00481F RLA    
+_colorStore1              004820 RLA    _colorStore2              004821 RLA    
+_requestedSFXCode         004822 RLA    _songLine                 004823 RLA    
+_CLM_DATA_CHARSET1        004C00 RLA    _CLM_DATA_CHARSET2        005000 RLA    
+_CLM_DATA_CAVEDL          005400 RLA    _CLM_DATA_CAVES           005423 RLA    
+__BSS_RUN__               006047 RLA    __BSS_LOAD__              006047 RLA    
+cursor                    0063DA RLA    _revflag                  00640C RLA    
+
+
+
+Imports list:
+-------------
+_CLM_DATA_CAVEDL (gamedata.o):
+    main.o                    build/main.s(17)
+_CLM_DATA_CAVES (gamedata.o):
+    main.o                    build/main.s(14)
+_CLM_DATA_CAVESCREEN (gamedata.o):
+    main.o                    build/main.s(19)
+_CLM_DATA_CHARSET1 (gamedata.o):
+    main.o                    build/main.s(15)
+_CLM_DATA_CHARSET2 (gamedata.o):
+    main.o                    build/main.s(16)
+_CLM_DATA_PMGAREA (gamedata.o):
+    main.o                    build/main.s(18)
+_CLM_DATA_STATUSBARSCREEN (gamedata.o):
+    main.o                    build/main.s(20)
+__AUTOSTART__ (exetrailer.o):
+    [linker generated]        linker.cfg(10)
+__BSS_LOAD__ ([linker generated]):
+    exehdr.o                  atari/exehdr.s(4)
+__BSS_RUN__ ([linker generated]):
+    zerobss.o                 common/zerobss.s(8)
+    system_check.o            atari/system_check.s(23)
+__BSS_SIZE__ ([linker generated]):
+    zerobss.o                 common/zerobss.s(8)
+    system_check.o            atari/system_check.s(23)
+__CONSTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s(18)
+__CONSTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s(18)
+__DESTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s(19)
+__DESTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s(19)
+__EXEHDR__ (exehdr.o):
+    [linker generated]        linker.cfg(8)
+__LOWCODE_RUN__ ([linker generated]):
+    crt0.o                    atari/crt0.s(18)
+__LOWCODE_SIZE__ ([linker generated]):
+    crt0.o                    atari/crt0.s(18)
+__MAIN_START__ ([linker generated]):
+    exehdr.o                  atari/exehdr.s(4)
+__RESERVED_MEMORY__ ([linker generated]):
+    system_check.o            atari/system_check.s(25)
+    crt0.o                    atari/crt0.s(16)
+    [linker generated]        linker.cfg(36)
+__STACKSIZE__ ([linker generated]):
+    system_check.o            atari/system_check.s(24)
+    [linker generated]        linker.cfg(36)
+__STARTADDRESS__ ([linker generated]):
+    system_check.o            atari/system_check.s(20)
+__STARTUP__ (crt0.o):
+    main.o                    build/main.s(13)
+__SYSCHKHDR__ (system_check_hdr.o):
+    system_check.o            atari/system_check.s(28)
+__SYSCHKTRL__ (system_check_trailer.o):
+    system_check.o            atari/system_check.s(28)
+__SYSCHK_END__ (system_check.o):
+    system_check_hdr.o        atari/system_check_hdr.s(7)
+__SYSCHK_LOAD__ ([linker generated]):
+    system_check_hdr.o        atari/system_check_hdr.s(7)
+__SYSTEM_CHECK__ (system_check.o):
+    system_check_trailer.o    atari/system_check_trailer.s(7)
+    [linker generated]        linker.cfg(9)
+__bzero (memset.o):
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+__ctype (ctype.o):
+    ctype_preprocessor.o      common/ctype_preprocessor.s(23)
+__ctypeIdx (ctype.o):
+    ctype_preprocessor.o      common/ctype_preprocessor.s(24)
+__hextab (_hextab.o):
+    ltoa.o                    common/ltoa.s(10)
+__longminstr (_longminstr.o):
+    ltoa.o                    common/ltoa.s(10)
+__printf (_printf.o):
+    vcprintf.o                conio/vcprintf.s(9)
+_asmReboot (routines.o):
+    main.o                    build/main.s(59)
+_cgetc (cgetc.o):
+    main.o                    build/main.s(28)
+_clrscr (clrscr.o):
+    main.o                    build/main.s(22)
+_colorStore1 (routines.o):
+    main.o                    build/main.s(103)
+_colorStore2 (routines.o):
+    main.o                    build/main.s(104)
+_cprintf (cprintf.o):
+    main.o                    build/main.s(27)
+_cputc (cputc.o):
+    vcprintf.o                conio/vcprintf.s(9)
+    cputs.o                   conio/cputs.s(9)
+_cputcxy (cputc.o):
+    main.o                    build/main.s(25)
+_cputsxy (cputs.o):
+    main.o                    build/main.s(26)
+_cursor (cursor.o):
+    main.o                    build/main.s(29)
+_dliHandler (routines.o):
+    main.o                    build/main.s(102)
+_get_tv (get_tv.o):
+    main.o                    build/main.s(21)
+_gotoxy (gotoxy.o):
+    main.o                    build/main.s(24)
+_kbhit (kbhit.o):
+    main.o                    build/main.s(23)
+_ltoa (ltoa.o):
+    _printf.o                 common/_printf.s(12)
+_main (main.o):
+    callmain.o                runtime/callmain.s(11)
+_memcpy (memcpy.o):
+    main.o                    build/main.s(31)
+_mul40 (mul40.o):
+    setcursor.o               atari/setcursor.s(7)
+    cputc.o                   atari/cputc.s(10)
+_mvDelay (routines.o):
+    main.o                    build/main.s(101)
+_requestedSFXCode (routines.o):
+    main.o                    build/main.s(111)
+_revers (revers.o):
+    main.o                    build/main.s(30)
+_revflag (revers.o):
+    cputc.o                   atari/cputc.s(12)
+_rmtAllStop (routines.o):
+    main.o                    build/main.s(50)
+_rmtPlaySFX (routines.o):
+    main.o                    build/main.s(58)
+_rmtPlaySongLine (routines.o):
+    main.o                    build/main.s(56)
+_rmtRestoreVBI (routines.o):
+    main.o                    build/main.s(54)
+_rmtResume (routines.o):
+    main.o                    build/main.s(52)
+_rmtSetVBI (routines.o):
+    main.o                    build/main.s(53)
+_rmtSuspend (routines.o):
+    main.o                    build/main.s(51)
+_songLine (routines.o):
+    main.o                    build/main.s(112)
+_strlen (strlen.o):
+    _printf.o                 common/_printf.s(13)
+_strlower (strlower.o):
+    _printf.o                 common/_printf.s(13)
+_ultoa (ltoa.o):
+    _printf.o                 common/_printf.s(12)
+_vcprintf (vcprintf.o):
+    cprintf.o                 conio/cprintf.s(8)
+addeqysp (addeqsp.o):
+    main.o                    build/main.s(3418)
+addysp (addysp.o):
+    incsp4.o                  runtime/incsp4.s(8)
+    incsp3.o                  runtime/incsp3.s(8)
+    cprintf.o                 conio/cprintf.s(8)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+aslax3 (aslax3.o):
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+axlong (axlong.o):
+    _printf.o                 common/_printf.s(11)
+axulong (axlong.o):
+    _printf.o                 common/_printf.s(11)
+callmain (callmain.o):
+    crt0.o                    atari/crt0.s(15)
+ctype_preprocessor_no_check (ctype_preprocessor.o):
+    strlower.o                common/strlower.s(14)
+cursor (_cursor.o):
+    setcursor.o               atari/setcursor.s(7)
+    cursor.o                  conio/cursor.s(8)
+decax1 (decax1.o):
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+decsp1 (decsp1.o):
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+decsp2 (decsp2.o):
+    main.o                    build/main.s(3418)
+decsp4 (decsp4.o):
+    lpush.o                   runtime/lpush.s(12)
+    main.o                    build/main.s(3418)
+decsp6 (decsp6.o):
+    _printf.o                 common/_printf.s(11)
+donelib (condes.o):
+    crt0.o                    atari/crt0.s(14)
+gotoxy (gotoxy.o):
+    cputs.o                   conio/cputs.s(9)
+    cputc.o                   atari/cputc.s(10)
+incax1 (incax1.o):
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+incaxy (incaxy.o):
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+incsp1 (incsp1.o):
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+incsp2 (incsp2.o):
+    staspidx.o                runtime/staspidx.s(8)
+    popptr1.o                 runtime/popptr1.s(8)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+incsp3 (incsp3.o):
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+incsp4 (incsp4.o):
+    main.o                    build/main.s(3418)
+initlib (condes.o):
+    crt0.o                    atari/crt0.s(14)
+ldax0sp (ldaxsp.o):
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+ldaxysp (ldaxsp.o):
+    main.o                    build/main.s(3418)
+leaa0sp (leaaxsp.o):
+    main.o                    build/main.s(3418)
+negeax (lneg.o):
+    ltoa.o                    common/ltoa.s(9)
+popa (popa.o):
+    gotoxy.o                  atari/gotoxy.s(10)
+popax (incsp2.o):
+    ltoa.o                    common/ltoa.s(9)
+    _printf.o                 common/_printf.s(11)
+    vcprintf.o                conio/vcprintf.s(8)
+    memset.o                  common/memset.s(19)
+    memcpy.o                  common/memcpy.s(14)
+popptr1 (popptr1.o):
+    udiv.o                    runtime/udiv.s(9)
+    ltoa.o                    common/ltoa.s(9)
+    vcprintf.o                conio/vcprintf.s(8)
+    umod.o                    runtime/umod.s(8)
+    mul8.o                    runtime/mul8.s(9)
+    memcpy.o                  common/memcpy.s(14)
+ptr1 (zeropage.o):
+    udiv.o                    runtime/udiv.s(10)
+    strlower.o                common/strlower.s(13)
+    ltoa.o                    common/ltoa.s(11)
+    _printf.o                 /home/travis/build/cc65/cc65/asminc/zeropage.inc(12)
+    zerobss.o                 common/zerobss.s(9)
+    vcprintf.o                conio/vcprintf.s(10)
+    staspidx.o                runtime/staspidx.s(9)
+    popptr1.o                 runtime/popptr1.s(9)
+    mul8.o                    runtime/mul8.s(10)
+    memset.o                  common/memset.s(20)
+    memcpy.o                  common/memcpy.s(15)
+    cputs.o                   conio/cputs.s(10)
+    cprintf.o                 conio/cprintf.s(9)
+    clrscr.o                  atari/clrscr.s(9)
+    main.o                    build/main.s(11)
+ptr2 (zeropage.o):
+    strlower.o                common/strlower.s(13)
+    strlen.o                  common/strlen.s(12)
+    ltoa.o                    common/ltoa.s(11)
+    _printf.o                 /home/travis/build/cc65/cc65/asminc/zeropage.inc(12)
+    vcprintf.o                conio/vcprintf.s(10)
+    memset.o                  common/memset.s(20)
+    memcpy.o                  common/memcpy.s(15)
+ptr3 (zeropage.o):
+    ltoa.o                    common/ltoa.s(11)
+    vcprintf.o                conio/vcprintf.s(10)
+    memset.o                  common/memset.s(20)
+    memcpy.o                  common/memcpy.s(15)
+ptr4 (zeropage.o):
+    udiv.o                    runtime/udiv.s(10)
+    umod.o                    runtime/umod.s(9)
+    swap.o                    runtime/swap.s(9)
+    mul8.o                    runtime/mul8.s(10)
+    cputc.o                   atari/cputc.s(11)
+push0 (pushax.o):
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+push1 (push1.o):
+    _printf.o                 common/_printf.s(11)
+pusha (pusha.o):
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+pusha0 (pushax.o):
+    push1.o                   runtime/push1.s(8)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+pushax (pushax.o):
+    callmain.o                runtime/callmain.s(11)
+    _printf.o                 common/_printf.s(11)
+    vcprintf.o                conio/vcprintf.s(8)
+    cprintf.o                 conio/cprintf.s(8)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+pusheax (lpush.o):
+    _printf.o                 common/_printf.s(11)
+regbank (zeropage.o):
+    _printf.o                 /home/travis/build/cc65/cc65/asminc/zeropage.inc(14)
+return1 (return1.o):
+    kbhit.o                   atari/kbhit.s(8)
+setcursor (setcursor.o):
+    gotoxy.o                  atari/gotoxy.s(11)
+    cputc.o                   atari/cputc.s(12)
+    clrscr.o                  atari/clrscr.s(10)
+    cgetc.o                   atari/cgetc.s(10)
+sp (zeropage.o):
+    lpush.o                   runtime/lpush.s(13)
+    decsp6.o                  runtime/decsp6.s(8)
+    _printf.o                 /home/travis/build/cc65/cc65/asminc/zeropage.inc(11)
+    vcprintf.o                conio/vcprintf.s(10)
+    swap.o                    runtime/swap.s(9)
+    subysp.o                  runtime/subysp.s(9)
+    staxsp.o                  runtime/staxsp.s(8)
+    staspidx.o                runtime/staspidx.s(9)
+    pushax.o                  runtime/pushax.s(8)
+    pusha.o                   runtime/pusha.s(8)
+    popptr1.o                 runtime/popptr1.s(9)
+    popa.o                    runtime/popa.s(8)
+    memset.o                  common/memset.s(20)
+    memcpy.o                  common/memcpy.s(15)
+    leaaxsp.o                 runtime/leaaxsp.s(8)
+    ldaxsp.o                  runtime/ldaxsp.s(8)
+    incsp2.o                  runtime/incsp2.s(8)
+    incsp1.o                  runtime/incsp1.s(8)
+    decsp4.o                  runtime/decsp4.s(8)
+    decsp2.o                  runtime/decsp2.s(8)
+    decsp1.o                  runtime/decsp1.s(8)
+    crt0.o                    /home/travis/build/cc65/cc65/asminc/zeropage.inc(11)
+    cprintf.o                 conio/cprintf.s(9)
+    addysp.o                  runtime/addysp.s(8)
+    addeqsp.o                 runtime/addeqsp.s(8)
+    add.o                     runtime/add.s(12)
+    main.o                    build/main.s(10)
+sreg (zeropage.o):
+    lneg.o                    runtime/lneg.s(11)
+    udiv.o                    runtime/udiv.s(10)
+    ltoa.o                    common/ltoa.s(11)
+    lpush.o                   runtime/lpush.s(13)
+    axlong.o                  runtime/axlong.s(9)
+    _printf.o                 /home/travis/build/cc65/cc65/asminc/zeropage.inc(11)
+    umod.o                    runtime/umod.s(9)
+start (crt0.o):
+    exetrailer.o              atari/exetrailer.s(4)
+staspidx (staspidx.o):
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+stax0sp (staxsp.o):
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+staxysp (staxsp.o):
+    main.o                    build/main.s(3418)
+subysp (subysp.o):
+    main.o                    build/main.s(3418)
+swapstk (swap.o):
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+tmp1 (zeropage.o):
+    ltoa.o                    common/ltoa.s(11)
+    _printf.o                 /home/travis/build/cc65/cc65/asminc/zeropage.inc(13)
+    vcprintf.o                conio/vcprintf.s(10)
+    staspidx.o                runtime/staspidx.s(9)
+    incaxy.o                  runtime/incaxy.s(8)
+    cputs.o                   conio/cputs.s(10)
+    aslax3.o                  runtime/aslax3.s(8)
+    add.o                     runtime/add.s(12)
+tmp4 (zeropage.o):
+    mul40.o                   common/mul40.s(16)
+tosaddax (add.o):
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+tosmula0 (mul8.o):
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+tosumoda0 (umod.o):
+    main.o                    build/main.s(3418)
+tosumula0 (mul8.o):
+    main.o                    build/main.s(3418)
+    main.o                    build/main.s(3418)
+udiv16 (udiv.o):
+    umod.o                    runtime/umod.s(8)
+zerobss (zerobss.o):
+    crt0.o                    atari/crt0.s(15)
+
