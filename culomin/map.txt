@@ -13,7 +13,7 @@ gamedata.o:
     CLM_SEG_RMTSONG   Offs=000000  Size=0002DB  Align=00001  Fill=0000
     CLM_SEG_RMTPLAYER Offs=000000  Size=000518  Align=00001  Fill=0000
 routines.o:
-    CODE              Offs=001762  Size=0000AC  Align=00001  Fill=0000
+    CODE              Offs=001762  Size=0000AA  Align=00001  Fill=0000
     DATA              Offs=000070  Size=000009  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(_cursor.o):
     BSS               Offs=000393  Size=000001  Align=00001  Fill=0000
@@ -22,126 +22,126 @@ C:\UTILS\A8\CC65/lib/atari.lib(_hextab.o):
 C:\UTILS\A8\CC65/lib/atari.lib(_longminstr.o):
     RODATA            Offs=0004CF  Size=00000C  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(_printf.o):
-    CODE              Offs=00180E  Size=0003A5  Align=00001  Fill=0000
+    CODE              Offs=00180C  Size=0003A5  Align=00001  Fill=0000
     BSS               Offs=000394  Size=00002B  Align=00001  Fill=0000
     DATA              Offs=000079  Size=000003  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(add.o):
-    CODE              Offs=001BB3  Size=00001C  Align=00001  Fill=0000
+    CODE              Offs=001BB1  Size=00001C  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(addeqsp.o):
-    CODE              Offs=001BCF  Size=000011  Align=00001  Fill=0000
+    CODE              Offs=001BCD  Size=000011  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(addysp.o):
-    CODE              Offs=001BE0  Size=00000E  Align=00001  Fill=0000
+    CODE              Offs=001BDE  Size=00000E  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(aslax3.o):
-    CODE              Offs=001BEE  Size=00000E  Align=00001  Fill=0000
+    CODE              Offs=001BEC  Size=00000E  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(axlong.o):
-    CODE              Offs=001BFC  Size=00000D  Align=00001  Fill=0000
+    CODE              Offs=001BFA  Size=00000D  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(callmain.o):
-    CODE              Offs=001C09  Size=000017  Align=00001  Fill=0000
+    CODE              Offs=001C07  Size=000017  Align=00001  Fill=0000
     DATA              Offs=00007C  Size=000004  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(cgetc.o):
-    CODE              Offs=001C20  Size=000016  Align=00001  Fill=0000
+    CODE              Offs=001C1E  Size=000016  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(clrscr.o):
-    CODE              Offs=001C36  Size=00002A  Align=00001  Fill=0000
+    CODE              Offs=001C34  Size=00002A  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(condes.o):
-    CODE              Offs=001C60  Size=00000C  Align=00001  Fill=0000
+    CODE              Offs=001C5E  Size=00000C  Align=00001  Fill=0000
     DATA              Offs=000080  Size=000025  Align=00001  Fill=0000
     ONCE              Offs=000000  Size=00000C  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(cprintf.o):
-    CODE              Offs=001C6C  Size=00002A  Align=00001  Fill=0000
+    CODE              Offs=001C6A  Size=00002A  Align=00001  Fill=0000
     BSS               Offs=0003BF  Size=000001  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(cputc.o):
-    CODE              Offs=001C96  Size=000068  Align=00001  Fill=0000
+    CODE              Offs=001C94  Size=000068  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(cputs.o):
-    CODE              Offs=001CFE  Size=000023  Align=00001  Fill=0000
+    CODE              Offs=001CFC  Size=000023  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(crt0.o):
     BSS               Offs=0003C0  Size=000005  Align=00001  Fill=0000
     STARTUP           Offs=000000  Size=000063  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(ctype.o):
     RODATA            Offs=0004DB  Size=00008B  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(ctype_preprocessor.o):
-    CODE              Offs=001D21  Size=00001E  Align=00001  Fill=0000
+    CODE              Offs=001D1F  Size=00001E  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(cursor.o):
-    CODE              Offs=001D3F  Size=00000A  Align=00001  Fill=0000
+    CODE              Offs=001D3D  Size=00000A  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(decax1.o):
-    CODE              Offs=001D49  Size=000007  Align=00001  Fill=0000
+    CODE              Offs=001D47  Size=000007  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(decsp1.o):
-    CODE              Offs=001D50  Size=000009  Align=00001  Fill=0000
+    CODE              Offs=001D4E  Size=000009  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(decsp2.o):
-    CODE              Offs=001D59  Size=00000D  Align=00001  Fill=0000
+    CODE              Offs=001D57  Size=00000D  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(decsp4.o):
-    CODE              Offs=001D66  Size=00000D  Align=00001  Fill=0000
+    CODE              Offs=001D64  Size=00000D  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(decsp6.o):
-    CODE              Offs=001D73  Size=00000D  Align=00001  Fill=0000
+    CODE              Offs=001D71  Size=00000D  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(exehdr.o):
     EXEHDR            Offs=000000  Size=000002  Align=00001  Fill=0000
     MAINHDR           Offs=000000  Size=000004  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(exetrailer.o):
     AUTOSTRT          Offs=000000  Size=000006  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(get_tv.o):
-    CODE              Offs=001D80  Size=00000E  Align=00001  Fill=0000
+    CODE              Offs=001D7E  Size=00000E  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(gotoxy.o):
-    CODE              Offs=001D8E  Size=000011  Align=00001  Fill=0000
+    CODE              Offs=001D8C  Size=000011  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(incax1.o):
-    CODE              Offs=001D9F  Size=000007  Align=00001  Fill=0000
+    CODE              Offs=001D9D  Size=000007  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(incaxy.o):
-    CODE              Offs=001DA6  Size=00000B  Align=00001  Fill=0000
+    CODE              Offs=001DA4  Size=00000B  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(incsp1.o):
-    CODE              Offs=001DB1  Size=000007  Align=00001  Fill=0000
+    CODE              Offs=001DAF  Size=000007  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(incsp2.o):
-    CODE              Offs=001DB8  Size=000016  Align=00001  Fill=0000
+    CODE              Offs=001DB6  Size=000016  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(incsp3.o):
-    CODE              Offs=001DCE  Size=000005  Align=00001  Fill=0000
+    CODE              Offs=001DCC  Size=000005  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(incsp4.o):
-    CODE              Offs=001DD3  Size=000005  Align=00001  Fill=0000
+    CODE              Offs=001DD1  Size=000005  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(kbhit.o):
-    CODE              Offs=001DD8  Size=00000B  Align=00001  Fill=0000
+    CODE              Offs=001DD6  Size=00000B  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(ldaxsp.o):
-    CODE              Offs=001DE3  Size=000009  Align=00001  Fill=0000
+    CODE              Offs=001DE1  Size=000009  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(leaaxsp.o):
-    CODE              Offs=001DEC  Size=00000C  Align=00001  Fill=0000
+    CODE              Offs=001DEA  Size=00000C  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(lneg.o):
-    CODE              Offs=001DF8  Size=00001E  Align=00001  Fill=0000
+    CODE              Offs=001DF6  Size=00001E  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(lpush.o):
-    CODE              Offs=001E16  Size=000021  Align=00001  Fill=0000
+    CODE              Offs=001E14  Size=000021  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(ltoa.o):
-    CODE              Offs=001E37  Size=000095  Align=00001  Fill=0000
+    CODE              Offs=001E35  Size=000095  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(memcpy.o):
-    CODE              Offs=001ECC  Size=00003C  Align=00001  Fill=0000
+    CODE              Offs=001ECA  Size=00003C  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(memset.o):
-    CODE              Offs=001F08  Size=00005D  Align=00001  Fill=0000
+    CODE              Offs=001F06  Size=00005D  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(mul40.o):
-    CODE              Offs=001F65  Size=000021  Align=00001  Fill=0000
+    CODE              Offs=001F63  Size=000021  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(mul8.o):
-    CODE              Offs=001F86  Size=00003A  Align=00001  Fill=0000
+    CODE              Offs=001F84  Size=00003A  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(popa.o):
-    CODE              Offs=001FC0  Size=00000C  Align=00001  Fill=0000
+    CODE              Offs=001FBE  Size=00000C  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(popptr1.o):
-    CODE              Offs=001FCC  Size=00000E  Align=00001  Fill=0000
+    CODE              Offs=001FCA  Size=00000E  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(push1.o):
-    CODE              Offs=001FDA  Size=000005  Align=00001  Fill=0000
+    CODE              Offs=001FD8  Size=000005  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(pusha.o):
-    CODE              Offs=001FDF  Size=000016  Align=00001  Fill=0000
+    CODE              Offs=001FDD  Size=000016  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(pushax.o):
-    CODE              Offs=001FF5  Size=00001A  Align=00001  Fill=0000
+    CODE              Offs=001FF3  Size=00001A  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(return1.o):
-    CODE              Offs=00200F  Size=000005  Align=00001  Fill=0000
+    CODE              Offs=00200D  Size=000005  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(revers.o):
-    CODE              Offs=002014  Size=000016  Align=00001  Fill=0000
+    CODE              Offs=002012  Size=000016  Align=00001  Fill=0000
     BSS               Offs=0003C5  Size=000001  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(setcursor.o):
-    CODE              Offs=00202A  Size=00003A  Align=00001  Fill=0000
+    CODE              Offs=002028  Size=00003A  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(staspidx.o):
-    CODE              Offs=002064  Size=000016  Align=00001  Fill=0000
+    CODE              Offs=002062  Size=000016  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(staxsp.o):
-    CODE              Offs=00207A  Size=00000B  Align=00001  Fill=0000
+    CODE              Offs=002078  Size=00000B  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(strlen.o):
-    CODE              Offs=002085  Size=000016  Align=00001  Fill=0000
+    CODE              Offs=002083  Size=000016  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(strlower.o):
-    CODE              Offs=00209B  Size=000027  Align=00001  Fill=0000
+    CODE              Offs=002099  Size=000027  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(subysp.o):
-    CODE              Offs=0020C2  Size=00000D  Align=00001  Fill=0000
+    CODE              Offs=0020C0  Size=00000D  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(swap.o):
-    CODE              Offs=0020CF  Size=000017  Align=00001  Fill=0000
+    CODE              Offs=0020CD  Size=000017  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(system_check.o):
     SYSCHK            Offs=000000  Size=0000F6  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(system_check_hdr.o):
@@ -149,14 +149,14 @@ C:\UTILS\A8\CC65/lib/atari.lib(system_check_hdr.o):
 C:\UTILS\A8\CC65/lib/atari.lib(system_check_trailer.o):
     SYSCHKTRL         Offs=000000  Size=000006  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(udiv.o):
-    CODE              Offs=0020E6  Size=00004F  Align=00001  Fill=0000
+    CODE              Offs=0020E4  Size=00004F  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(umod.o):
-    CODE              Offs=002135  Size=000011  Align=00001  Fill=0000
+    CODE              Offs=002133  Size=000011  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(vcprintf.o):
-    CODE              Offs=002146  Size=00007A  Align=00001  Fill=0000
+    CODE              Offs=002144  Size=00007A  Align=00001  Fill=0000
     DATA              Offs=0000A5  Size=000008  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(zerobss.o):
-    CODE              Offs=0021C0  Size=000023  Align=00001  Fill=0000
+    CODE              Offs=0021BE  Size=000023  Align=00001  Fill=0000
 C:\UTILS\A8\CC65/lib/atari.lib(zeropage.o):
     ZEROPAGE          Offs=000000  Size=00001A  Align=00001  Fill=0000
 
@@ -175,10 +175,10 @@ SYSCHKTRL             000000  000005  000006  00001
 ZEROPAGE              000082  00009B  00001A  00001
 STARTUP               002000  002062  000063  00001
 ONCE                  002063  00206E  00000C  00001
-CODE                  00206F  004251  0021E3  00001
+CODE                  00206F  00424F  0021E1  00001
 SYSCHK                002E00  002EF5  0000F6  00001
-RODATA                004252  0047B7  000566  00001
-DATA                  0047B8  004864  0000AD  00001
+RODATA                004250  0047B5  000566  00001
+DATA                  0047B6  004862  0000AD  00001
 CLM_SEG_CHARSET1      004C00  004FFF  000400  00001
 CLM_SEG_CHARSET2      005000  0053FF  000400  00001
 CLM_SEG_CAVEDL        005400  005422  000023  00001
@@ -195,62 +195,62 @@ _CLM_DATA_STATUSBARSCREEN 001370 RLA    __AUTOSTART__             000001 REA
 __BSS_LOAD__              006047 RLA    __BSS_RUN__               006047 RLA    
 __BSS_SIZE__              0003C6 REA    __CONSTRUCTOR_COUNT__     000000 REA    
 __CONSTRUCTOR_TABLE__     00206F RLA    __DESTRUCTOR_COUNT__      000000 REA    
-__DESTRUCTOR_TABLE__      0047B8 RLA    __EXEHDR__                000001 REA    
+__DESTRUCTOR_TABLE__      0047B6 RLA    __EXEHDR__                000001 REA    
 __LOWCODE_RUN__           002063 RLA    __LOWCODE_SIZE__          000000 REA    
 __MAIN_START__            002000 RLA    __RESERVED_MEMORY__       000000 REA    
 __STACKSIZE__             000800 REA    __STARTADDRESS__          002000 REA    
 __STARTUP__               000001 REA    __SYSCHKHDR__             000001 REA    
 __SYSCHKTRL__             000001 REA    __SYSCHK_END__            002EF6 RLA    
 __SYSCHK_LOAD__           002E00 RLA    __SYSTEM_CHECK__          002E47 REA    
-__bzero                   003F77 RLA    __ctype                   00472D RLA    
-__ctypeIdx                004738 RLA    __hextab                  004711 RLA    
-__longminstr              004721 RLA    __printf                  003970 RLA    
-_asmReboot                00387A RLA    _cgetc                    003C8F RLA    
-_clrscr                   003CA5 RLA    _colorStore1              00482D RLA    
-_colorStore2              00482E RLA    _cprintf                  003CDB RLA    
-_cputc                    003D0A RLA    _cputcxy                  003D05 RLA    
-_cputsxy                  003D6D RLA    _cursor                   003DAE RLA    
-_dliHandler               0037D1 RLA    _get_tv                   003DEF RLA    
-_gotoxy                   003E00 RLA    _kbhit                    003E47 RLA    
-_ltoa                     003EBE RLA    _main                     00361B RLA    
-_memcpy                   003F3B RLA    _mul40                    003FD4 RLA    
-_mvDelay                  00482C RLA    _requestedSFXCode         00482F RLA    
-_revers                   004083 RLA    _revflag                  00640C RLA    
-_rmtAllStop               003863 RLA    _rmtPlaySFX               003867 RLA    
-_rmtPlaySongLine          003858 RLA    _rmtRestoreVBI            00384C RLA    
-_rmtResume                003874 RLA    _rmtSetVBI                003836 RLA    
-_rmtSuspend               00386E RLA    _songLine                 004830 RLA    
-_strlen                   0040F4 RLA    _strlower                 00410A RLA    
-_ultoa                    003EFF RLA    _vcprintf                 0041FF RLA    
-addeqysp                  003C40 RLA    addysp                    003C50 RLA    
-aslax3                    003C5D RLA    axlong                    003C6B RLA    
-axulong                   003C71 RLA    callmain                  003C78 RLA    
-ctype_preprocessor_no_check 003D94 RLA    cursor                    0063DA RLA    
-decax1                    003DB8 RLA    decsp1                    003DBF RLA    
-decsp2                    003DC8 RLA    decsp4                    003DD5 RLA    
-decsp6                    003DE2 RLA    donelib                   003CCF RLA    
-gotoxy                    003DFD RLA    incax1                    003E0E RLA    
-incaxy                    003E17 RLA    incsp1                    003E20 RLA    
-incsp2                    003E2F RLA    incsp3                    003E3D RLA    
-incsp4                    003E42 RLA    initlib                   002063 RLA    
-ldax0sp                   003E52 RLA    ldaxysp                   003E54 RLA    
-leaa0sp                   003E5B RLA    negeax                    003E67 RLA    
-popa                      00402F RLA    popax                     003E27 RLA    
-popptr1                   00403B RLA    ptr1                      00008A RLZ    
+__bzero                   003F75 RLA    __ctype                   00472B RLA    
+__ctypeIdx                004736 RLA    __hextab                  00470F RLA    
+__longminstr              00471F RLA    __printf                  00396E RLA    
+_asmReboot                003878 RLA    _cgetc                    003C8D RLA    
+_clrscr                   003CA3 RLA    _colorStore1              00482B RLA    
+_colorStore2              00482C RLA    _cprintf                  003CD9 RLA    
+_cputc                    003D08 RLA    _cputcxy                  003D03 RLA    
+_cputsxy                  003D6B RLA    _cursor                   003DAC RLA    
+_dliHandler               0037D1 RLA    _get_tv                   003DED RLA    
+_gotoxy                   003DFE RLA    _kbhit                    003E45 RLA    
+_ltoa                     003EBC RLA    _main                     00361B RLA    
+_memcpy                   003F39 RLA    _mul40                    003FD2 RLA    
+_mvDelay                  00482A RLA    _requestedSFXCode         00482D RLA    
+_revers                   004081 RLA    _revflag                  00640C RLA    
+_rmtAllStop               003861 RLA    _rmtPlaySFX               003865 RLA    
+_rmtPlaySongLine          003856 RLA    _rmtRestoreVBI            00384A RLA    
+_rmtResume                003872 RLA    _rmtSetVBI                003834 RLA    
+_rmtSuspend               00386C RLA    _songLine                 00482E RLA    
+_strlen                   0040F2 RLA    _strlower                 004108 RLA    
+_ultoa                    003EFD RLA    _vcprintf                 0041FD RLA    
+addeqysp                  003C3E RLA    addysp                    003C4E RLA    
+aslax3                    003C5B RLA    axlong                    003C69 RLA    
+axulong                   003C6F RLA    callmain                  003C76 RLA    
+ctype_preprocessor_no_check 003D92 RLA    cursor                    0063DA RLA    
+decax1                    003DB6 RLA    decsp1                    003DBD RLA    
+decsp2                    003DC6 RLA    decsp4                    003DD3 RLA    
+decsp6                    003DE0 RLA    donelib                   003CCD RLA    
+gotoxy                    003DFB RLA    incax1                    003E0C RLA    
+incaxy                    003E15 RLA    incsp1                    003E1E RLA    
+incsp2                    003E2D RLA    incsp3                    003E3B RLA    
+incsp4                    003E40 RLA    initlib                   002063 RLA    
+ldax0sp                   003E50 RLA    ldaxysp                   003E52 RLA    
+leaa0sp                   003E59 RLA    negeax                    003E65 RLA    
+popa                      00402D RLA    popax                     003E25 RLA    
+popptr1                   004039 RLA    ptr1                      00008A RLZ    
 ptr2                      00008C RLZ    ptr3                      00008E RLZ    
-ptr4                      000090 RLZ    push0                     004064 RLA    
-push1                     004049 RLA    pusha                     004052 RLA    
-pusha0                    004066 RLA    pushax                    004068 RLA    
-pusheax                   003E8E RLA    regbank                   000096 RLZ    
-return1                   00407E RLA    setcursor                 004099 RLA    
+ptr4                      000090 RLZ    push0                     004062 RLA    
+push1                     004047 RLA    pusha                     004050 RLA    
+pusha0                    004064 RLA    pushax                    004066 RLA    
+pusheax                   003E8C RLA    regbank                   000096 RLZ    
+return1                   00407C RLA    setcursor                 004097 RLA    
 sp                        000082 RLZ    sreg                      000084 RLZ    
-start                     002001 RLA    staspidx                  0040D3 RLA    
-stax0sp                   0040E9 RLA    staxysp                   0040EB RLA    
-subysp                    004131 RLA    swapstk                   00413E RLA    
+start                     002001 RLA    staspidx                  0040D1 RLA    
+stax0sp                   0040E7 RLA    staxysp                   0040E9 RLA    
+subysp                    00412F RLA    swapstk                   00413C RLA    
 tmp1                      000092 RLZ    tmp4                      000095 RLZ    
-tosaddax                  003C24 RLA    tosmula0                  003FF5 RLA    
-tosumoda0                 0041A4 RLA    tosumula0                 003FF5 RLA    
-udiv16                    004166 RLA    zerobss                   00422F RLA    
+tosaddax                  003C22 RLA    tosmula0                  003FF3 RLA    
+tosumoda0                 0041A2 RLA    tosumula0                 003FF3 RLA    
+udiv16                    004164 RLA    zerobss                   00422D RLA    
 
 
 
@@ -273,48 +273,48 @@ initlib                   002063 RLA    __LOWCODE_RUN__           002063 RLA
 __CONSTRUCTOR_TABLE__     00206F RLA    __SYSCHK_LOAD__           002E00 RLA    
 __SYSTEM_CHECK__          002E47 REA    __SYSCHK_END__            002EF6 RLA    
 _main                     00361B RLA    _dliHandler               0037D1 RLA    
-_rmtSetVBI                003836 RLA    _rmtRestoreVBI            00384C RLA    
-_rmtPlaySongLine          003858 RLA    _rmtAllStop               003863 RLA    
-_rmtPlaySFX               003867 RLA    _rmtSuspend               00386E RLA    
-_rmtResume                003874 RLA    _asmReboot                00387A RLA    
-__printf                  003970 RLA    tosaddax                  003C24 RLA    
-addeqysp                  003C40 RLA    addysp                    003C50 RLA    
-aslax3                    003C5D RLA    axlong                    003C6B RLA    
-axulong                   003C71 RLA    callmain                  003C78 RLA    
-_cgetc                    003C8F RLA    _clrscr                   003CA5 RLA    
-donelib                   003CCF RLA    _cprintf                  003CDB RLA    
-_cputcxy                  003D05 RLA    _cputc                    003D0A RLA    
-_cputsxy                  003D6D RLA    ctype_preprocessor_no_check 003D94 RLA    
-_cursor                   003DAE RLA    decax1                    003DB8 RLA    
-decsp1                    003DBF RLA    decsp2                    003DC8 RLA    
-decsp4                    003DD5 RLA    decsp6                    003DE2 RLA    
-_get_tv                   003DEF RLA    gotoxy                    003DFD RLA    
-_gotoxy                   003E00 RLA    incax1                    003E0E RLA    
-incaxy                    003E17 RLA    incsp1                    003E20 RLA    
-popax                     003E27 RLA    incsp2                    003E2F RLA    
-incsp3                    003E3D RLA    incsp4                    003E42 RLA    
-_kbhit                    003E47 RLA    ldax0sp                   003E52 RLA    
-ldaxysp                   003E54 RLA    leaa0sp                   003E5B RLA    
-negeax                    003E67 RLA    pusheax                   003E8E RLA    
-_ltoa                     003EBE RLA    _ultoa                    003EFF RLA    
-_memcpy                   003F3B RLA    __bzero                   003F77 RLA    
-_mul40                    003FD4 RLA    tosmula0                  003FF5 RLA    
-tosumula0                 003FF5 RLA    popa                      00402F RLA    
-popptr1                   00403B RLA    push1                     004049 RLA    
-pusha                     004052 RLA    push0                     004064 RLA    
-pusha0                    004066 RLA    pushax                    004068 RLA    
-return1                   00407E RLA    _revers                   004083 RLA    
-setcursor                 004099 RLA    staspidx                  0040D3 RLA    
-stax0sp                   0040E9 RLA    staxysp                   0040EB RLA    
-_strlen                   0040F4 RLA    _strlower                 00410A RLA    
-subysp                    004131 RLA    swapstk                   00413E RLA    
-udiv16                    004166 RLA    tosumoda0                 0041A4 RLA    
-_vcprintf                 0041FF RLA    zerobss                   00422F RLA    
-__hextab                  004711 RLA    __longminstr              004721 RLA    
-__ctype                   00472D RLA    __ctypeIdx                004738 RLA    
-__DESTRUCTOR_TABLE__      0047B8 RLA    _mvDelay                  00482C RLA    
-_colorStore1              00482D RLA    _colorStore2              00482E RLA    
-_requestedSFXCode         00482F RLA    _songLine                 004830 RLA    
+_rmtSetVBI                003834 RLA    _rmtRestoreVBI            00384A RLA    
+_rmtPlaySongLine          003856 RLA    _rmtAllStop               003861 RLA    
+_rmtPlaySFX               003865 RLA    _rmtSuspend               00386C RLA    
+_rmtResume                003872 RLA    _asmReboot                003878 RLA    
+__printf                  00396E RLA    tosaddax                  003C22 RLA    
+addeqysp                  003C3E RLA    addysp                    003C4E RLA    
+aslax3                    003C5B RLA    axlong                    003C69 RLA    
+axulong                   003C6F RLA    callmain                  003C76 RLA    
+_cgetc                    003C8D RLA    _clrscr                   003CA3 RLA    
+donelib                   003CCD RLA    _cprintf                  003CD9 RLA    
+_cputcxy                  003D03 RLA    _cputc                    003D08 RLA    
+_cputsxy                  003D6B RLA    ctype_preprocessor_no_check 003D92 RLA    
+_cursor                   003DAC RLA    decax1                    003DB6 RLA    
+decsp1                    003DBD RLA    decsp2                    003DC6 RLA    
+decsp4                    003DD3 RLA    decsp6                    003DE0 RLA    
+_get_tv                   003DED RLA    gotoxy                    003DFB RLA    
+_gotoxy                   003DFE RLA    incax1                    003E0C RLA    
+incaxy                    003E15 RLA    incsp1                    003E1E RLA    
+popax                     003E25 RLA    incsp2                    003E2D RLA    
+incsp3                    003E3B RLA    incsp4                    003E40 RLA    
+_kbhit                    003E45 RLA    ldax0sp                   003E50 RLA    
+ldaxysp                   003E52 RLA    leaa0sp                   003E59 RLA    
+negeax                    003E65 RLA    pusheax                   003E8C RLA    
+_ltoa                     003EBC RLA    _ultoa                    003EFD RLA    
+_memcpy                   003F39 RLA    __bzero                   003F75 RLA    
+_mul40                    003FD2 RLA    tosmula0                  003FF3 RLA    
+tosumula0                 003FF3 RLA    popa                      00402D RLA    
+popptr1                   004039 RLA    push1                     004047 RLA    
+pusha                     004050 RLA    push0                     004062 RLA    
+pusha0                    004064 RLA    pushax                    004066 RLA    
+return1                   00407C RLA    _revers                   004081 RLA    
+setcursor                 004097 RLA    staspidx                  0040D1 RLA    
+stax0sp                   0040E7 RLA    staxysp                   0040E9 RLA    
+_strlen                   0040F2 RLA    _strlower                 004108 RLA    
+subysp                    00412F RLA    swapstk                   00413C RLA    
+udiv16                    004164 RLA    tosumoda0                 0041A2 RLA    
+_vcprintf                 0041FD RLA    zerobss                   00422D RLA    
+__hextab                  00470F RLA    __longminstr              00471F RLA    
+__ctype                   00472B RLA    __ctypeIdx                004736 RLA    
+__DESTRUCTOR_TABLE__      0047B6 RLA    _mvDelay                  00482A RLA    
+_colorStore1              00482B RLA    _colorStore2              00482C RLA    
+_requestedSFXCode         00482D RLA    _songLine                 00482E RLA    
 _CLM_DATA_CHARSET1        004C00 RLA    _CLM_DATA_CHARSET2        005000 RLA    
 _CLM_DATA_CAVEDL          005400 RLA    _CLM_DATA_CAVES           005423 RLA    
 __BSS_RUN__               006047 RLA    __BSS_LOAD__              006047 RLA    
