@@ -6,6 +6,8 @@
  * this work without prior consent from anybody.
  * 
  * History:
+ * Version 1.1
+ * - Fix VBI handler and music
  * Version 1.0
  * - Dealt with ATTRACT mode
  * - Controls temporarily locked when miner lands
@@ -1327,7 +1329,7 @@ void displayMainMenu() {
     /*             12345678901234567890 */
     cputsxy(0, 0, "    CURSE OF THE");
     cputsxy(0, 1, "     LOST MINER");
-    cputsxy(0, 3, "BAKTRA SOFTWARE 2015");
+    cputsxy(0, 3, " BAHA SOFTWARE 2020");
 
     /*Description of menu controls*/
     cputsxy(1, 8, "FIRE    start game");

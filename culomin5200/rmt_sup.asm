@@ -92,8 +92,6 @@ _kc3:  jmp $FCB2           ;Continue with original handler
 ;===============================================================================
 .segment "CODE"
 _vbiRoutine:
-	php
-	pla
 	;No attract
 	lda #0
 	sta 4
@@ -156,13 +154,10 @@ _x1:	jmp (_vbistorel)
 .proc _rmtRestoreVBI: near
 .segment "CODE"
 	;store original vbi address
-	
 	ldy _vbistorel
 	ldx _vbistoreh
 	sty $202
 	stx $203
-;	lda #7
-;	jsr $e45c
 	
 	rts
 .endproc

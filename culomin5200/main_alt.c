@@ -11,6 +11,8 @@
  * - High jump is initiated by pressing fire 2 button
  * - After landing, the player is forced to recenter the joystick
  * 
+ * Version 1.1
+ * - VBI handler fixes, music fixes
  * Version 1.0
  * - Dealt with ATTRACT mode
  * - Controls temporarily locked when miner lands
@@ -1381,7 +1383,7 @@ void displayMainMenu() {
     /*             12345678901234567890 */
     cputsxy(0, 0, "    CURSE OF THE");
     cputsxy(0, 1, "     LOST MINER");
-    cputsxy(0, 3, "BAKTRA SOFTWARE 2015");
+    cputsxy(0, 3, " BAHA SOFTWARE 2020");
 
 
     /*Description of menu controls*/
