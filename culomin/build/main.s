@@ -240,171 +240,171 @@ _elem2CharMap:
 
 .segment	"RODATA"
 
-L07D5:
+L07DC:
 	.byte	$57,$68,$65,$6E,$20,$74,$68,$65,$20,$6D,$69,$6E,$65,$72,$20,$69
 	.byte	$73,$20,$66,$61,$6C,$6C,$69,$6E,$67,$2C,$20,$68,$65,$20,$63,$61
 	.byte	$6E,$20,$6D,$6F,$76,$65,$00
-L062F:
+L0636:
 	.byte	$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$42,$41,$48,$41,$20,$53
 	.byte	$6F,$66,$74,$77,$61,$72,$65,$20,$32,$30,$32,$30,$20,$20,$20,$20
 	.byte	$20,$20,$20,$20,$20,$20,$00
-L083F:
+L0846:
 	.byte	$50,$72,$65,$73,$73,$20,$53,$54,$41,$52,$54,$20,$74,$6F,$20,$72
 	.byte	$65,$74,$75,$72,$6E,$20,$74,$6F,$20,$74,$68,$65,$20,$6D,$61,$69
 	.byte	$6E,$20,$6D,$65,$6E,$75,$00
-L062A:
+L0631:
 	.byte	$20,$20,$20,$20,$20,$20,$20,$43,$55,$52,$53,$45,$20,$4F,$46,$20
 	.byte	$54,$48,$45,$20,$20,$4C,$4F,$53,$54,$20,$4D,$49,$4E,$45,$52,$20
 	.byte	$20,$20,$20,$20,$20,$20,$00
-L0817:
+L081E:
 	.byte	$54,$68,$65,$20,$6D,$69,$6E,$65,$72,$20,$63,$61,$6E,$20,$6A,$75
 	.byte	$6D,$70,$20,$6F,$6E,$6C,$79,$20,$77,$68,$65,$6E,$20,$74,$68,$65
 	.byte	$72,$65,$20,$69,$73,$00
-L07B2:
+L07B9:
 	.byte	$55,$73,$65,$20,$6A,$6F,$79,$73,$74,$69,$63,$6B,$20,$69,$6E,$20
 	.byte	$70,$6F,$72,$74,$20,$31,$20,$74,$6F,$20,$63,$6F,$6E,$74,$72,$6F
 	.byte	$6C,$20,$74,$68,$65,$00
-L0835:
+L083C:
 	.byte	$4C,$6F,$6E,$67,$20,$6A,$75,$6D,$70,$20,$74,$6F,$20,$74,$68,$65
 	.byte	$20,$6C,$65,$66,$74,$20,$6F,$72,$20,$74,$6F,$20,$74,$68,$65,$20
 	.byte	$72,$69,$67,$68,$74,$00
-L071E:
+L0725:
 	.byte	$4E,$6F,$77,$20,$79,$6F,$75,$20,$73,$68,$6F,$75,$6C,$64,$20,$63
 	.byte	$72,$65,$61,$74,$65,$20,$79,$6F,$75,$72,$20,$6F,$77,$6E,$20,$63
 	.byte	$61,$76,$65,$73,$2E,$00
-L082B:
+L0832:
 	.byte	$6F,$72,$20,$74,$6F,$20,$74,$68,$65,$20,$72,$69,$67,$68,$74,$20
 	.byte	$6F,$6E,$63,$65,$20,$64,$75,$72,$69,$6E,$67,$20,$74,$68,$65,$20
 	.byte	$6A,$75,$6D,$70,$00
-L0826:
+L082D:
 	.byte	$48,$69,$67,$68,$20,$6A,$75,$6D,$70,$20,$2D,$20,$59,$6F,$75,$20
 	.byte	$63,$61,$6E,$20,$6D,$6F,$76,$65,$20,$74,$6F,$20,$74,$68,$65,$20
 	.byte	$6C,$65,$66,$74,$00
-L0652:
+L0659:
 	.byte	$47,$75,$69,$64,$65,$20,$74,$68,$65,$20,$6D,$69,$6E,$65,$72,$20
 	.byte	$74,$68,$72,$6F,$75,$67,$68,$20,$31,$33,$20,$64,$61,$6E,$67,$65
 	.byte	$72,$6F,$75,$73,$00
-L07CB:
+L07D2:
 	.byte	$4A,$6F,$79,$73,$74,$69,$63,$6B,$20,$64,$6F,$77,$6E,$20,$20,$2D
 	.byte	$20,$4D,$6F,$76,$65,$20,$64,$6F,$77,$6E,$20,$28,$6C,$61,$64,$64
 	.byte	$65,$72,$29,$00
-L07C1:
+L07C8:
 	.byte	$4A,$6F,$79,$73,$74,$69,$63,$6B,$20,$72,$69,$67,$68,$74,$20,$2D
 	.byte	$20,$4D,$6F,$76,$65,$20,$74,$6F,$20,$74,$68,$65,$20,$72,$69,$67
 	.byte	$68,$74,$00
-L0657:
+L065E:
 	.byte	$63,$61,$76,$65,$73,$2E,$20,$41,$76,$6F,$69,$64,$20,$6F,$62,$73
 	.byte	$74,$61,$63,$6C,$65,$73,$20,$61,$6E,$64,$20,$63,$6F,$6C,$6C,$65
 	.byte	$63,$74,$00
-L07C6:
+L07CD:
 	.byte	$4A,$6F,$79,$73,$74,$69,$63,$6B,$20,$75,$70,$20,$20,$20,$20,$2D
 	.byte	$20,$4D,$6F,$76,$65,$20,$75,$70,$20,$28,$6C,$61,$64,$64,$65,$72
 	.byte	$29,$00
-L07BC:
+L07C3:
 	.byte	$4A,$6F,$79,$73,$74,$69,$63,$6B,$20,$6C,$65,$66,$74,$20,$20,$2D
 	.byte	$20,$4D,$6F,$76,$65,$20,$74,$6F,$20,$74,$68,$65,$20,$6C,$65,$66
 	.byte	$74,$00
-L07DA:
+L07E1:
 	.byte	$74,$6F,$20,$74,$68,$65,$20,$6C,$65,$66,$74,$20,$61,$6E,$64,$20
 	.byte	$74,$6F,$20,$74,$68,$65,$20,$72,$69,$67,$68,$74,$20,$6F,$6E,$63
 	.byte	$65,$00
-L07DF:
+L07E6:
 	.byte	$54,$68,$65,$20,$6D,$69,$6E,$65,$72,$20,$64,$69,$65,$73,$20,$77
 	.byte	$68,$65,$6E,$20,$68,$65,$20,$66,$61,$6C,$6C,$73,$20,$74,$6F,$6F
 	.byte	$20,$00
-L07E9:
+L07F0:
 	.byte	$41,$76,$6F,$69,$64,$20,$73,$70,$69,$6B,$65,$73,$20,$2D,$20,$74
 	.byte	$68,$65,$20,$6D,$69,$6E,$65,$72,$20,$63,$61,$6E,$20,$6A,$75,$6D
 	.byte	$70,$00
-L0719:
+L0720:
 	.byte	$54,$68,$61,$6E,$6B,$20,$79,$6F,$75,$20,$66,$6F,$72,$20,$70,$6C
 	.byte	$61,$79,$69,$6E,$67,$20,$74,$68,$69,$73,$20,$67,$61,$6D,$65,$2E
 	.byte	$00
-L07D0:
+L07D7:
 	.byte	$54,$68,$65,$20,$6D,$69,$6E,$65,$72,$20,$69,$73,$20,$61,$66,$66
 	.byte	$65,$63,$74,$65,$64,$20,$62,$79,$20,$67,$72,$61,$76,$69,$74,$79
 	.byte	$00
-L083A:
+L0841:
 	.byte	$50,$72,$65,$73,$73,$20,$4F,$50,$54,$49,$4F,$4E,$20,$74,$6F,$20
 	.byte	$63,$6F,$6D,$6D,$69,$74,$20,$73,$75,$69,$63,$69,$64,$65,$00
-L079F:
+L07A6:
 	.byte	$52,$65,$74,$75,$72,$6E,$69,$6E,$67,$20,$74,$6F,$20,$74,$68,$65
 	.byte	$20,$6D,$61,$69,$6E,$20,$6D,$65,$6E,$75,$20,$2E,$2E,$2E,$00
-L0830:
+L0837:
 	.byte	$46,$49,$52,$45,$20,$2B,$20,$4A,$6F,$79,$73,$74,$69,$63,$6B,$20
 	.byte	$6C,$65,$66,$74,$20,$6F,$72,$20,$72,$69,$67,$68,$74,$00
-L081C:
+L0823:
 	.byte	$61,$20,$72,$6F,$63,$6B,$20,$6F,$72,$20,$61,$20,$6C,$61,$64,$64
 	.byte	$65,$72,$20,$75,$6E,$64,$65,$72,$20,$68,$69,$6D,$00
-L070F:
+L0716:
 	.byte	$54,$68,$65,$20,$63,$75,$72,$73,$65,$20,$6F,$66,$20,$74,$68,$65
 	.byte	$20,$6C,$6F,$73,$74,$20,$6D,$69,$6E,$65,$72,$00
-L065C:
+L0663:
 	.byte	$61,$6C,$6C,$20,$64,$69,$61,$6D,$6F,$6E,$64,$73,$20,$69,$6E,$20
 	.byte	$65,$61,$63,$68,$20,$63,$61,$76,$65,$2E,$00
-L0852:
+L0859:
 	.byte	$74,$6F,$20,$65,$6E,$74,$65,$72,$20,$74,$68,$65,$20,$74,$72,$61
 	.byte	$69,$6E,$69,$6E,$67,$20,$63,$61,$76,$65,$00
-L080D:
+L0814:
 	.byte	$54,$6F,$20,$63,$6F,$75,$6E,$74,$65,$72,$61,$63,$74,$20,$74,$68
 	.byte	$65,$20,$67,$72,$61,$76,$69,$74,$79,$2C,$00
-L0694:
+L069B:
 	.byte	$74,$6F,$20,$74,$6F,$67,$67,$6C,$65,$20,$67,$61,$6D,$65,$20,$73
 	.byte	$70,$65,$65,$64,$3A,$00
-L0686:
+L068D:
 	.byte	$74,$6F,$20,$73,$65,$74,$20,$73,$74,$61,$72,$74,$69,$6E,$67,$20
 	.byte	$63,$61,$76,$65,$3A,$00
-L0812	:=	L07E9+15
-L0821:
+L0819	:=	L07F0+15
+L0828:
 	.byte	$46,$49,$52,$45,$20,$2B,$20,$4A,$6F,$79,$73,$74,$69,$63,$6B,$20
 	.byte	$75,$70,$00
-L06A2:
+L06A9:
 	.byte	$74,$6F,$20,$73,$74,$61,$72,$74,$20,$74,$72,$61,$69,$6E,$69,$6E
 	.byte	$67,$00
-L070A:
+L0711:
 	.byte	$43,$6F,$6E,$67,$72,$61,$74,$75,$6C,$61,$74,$69,$6F,$6E,$73,$20
 	.byte	$21,$00
-L0714:
+L071B:
 	.byte	$68,$61,$73,$20,$62,$65,$65,$6E,$20,$62,$72,$6F,$6B,$65,$6E,$2E
 	.byte	$00
-L0801:
+L0808:
 	.byte	$66,$6F,$72,$20,$6E,$65,$78,$74,$20,$70,$61,$67,$65,$00
-L066B:
+L0672:
 	.byte	$74,$6F,$20,$73,$74,$61,$72,$74,$20,$67,$61,$6D,$65,$00
-L0767:
+L076E:
 	.byte	$47,$41,$4D,$45,$20,$49,$53,$20,$4F,$56,$45,$52,$00
-L0783:
+L078A:
 	.byte	$74,$6F,$20,$63,$6F,$6E,$74,$69,$6E,$75,$65,$00
-L0749	:=	L0783+0
-L07EE:
+L0750	:=	L078A+0
+L07F5:
 	.byte	$6F,$76,$65,$72,$20,$74,$68,$65,$6D,$00
-L06B3:
+L06BA:
 	.byte	$4E,$4F,$52,$4D,$41,$4C,$00
-L06B9:
+L06C0:
 	.byte	$20,$20,$53,$4C,$4F,$57,$00
-L07E4:
+L07EB:
 	.byte	$64,$65,$65,$70,$6C,$79,$00
-L0666:
+L066D:
 	.byte	$50,$72,$65,$73,$73,$00
-L0844	:=	L0666+0
-L07F3	:=	L0666+0
-L073B	:=	L0666+0
-L0775	:=	L0666+0
-L07B7	:=	L070F+22
-L0661:
+L084B	:=	L066D+0
+L07FA	:=	L066D+0
+L0742	:=	L066D+0
+L077C	:=	L066D+0
+L07BE	:=	L0716+22
+L0668:
 	.byte	$76,$31,$2E,$35,$00
-L0742:
+L0749:
 	.byte	$46,$49,$52,$45,$00
-L0672	:=	L0742+0
-L07FA	:=	L0742+0
-L084B	:=	L0742+0
-L06F3:
+L0679	:=	L0749+0
+L0801	:=	L0749+0
+L0852	:=	L0749+0
+L06FA:
 	.byte	$25,$30,$32,$64,$00
-L077C	:=	L0742+0
-L0699:
+L0783	:=	L0749+0
+L06A0:
 	.byte	$4A,$53,$00
-L0679	:=	L0699+0
-L068B	:=	L0699+0
+L0680	:=	L06A0+0
+L0692	:=	L06A0+0
 
 .segment	"BSS"
 
@@ -497,11 +497,11 @@ _fallSpeed:
 	ldx     #>(_CLM_DATA_CAVEDL)
 	stx     $0231
 	lda     _gameType
-	bne     L0888
+	bne     L088F
 	lda     _startingCave
-	jmp     L0884
-L0888:	lda     #$0D
-L0884:	sta     _currentCave
+	jmp     L088B
+L088F:	lda     #$0D
+L088B:	sta     _currentCave
 	lda     #$04
 	sta     _lives
 	lda     #<(_dliHandler)
@@ -512,8 +512,8 @@ L0884:	sta     _currentCave
 	stx     $0201
 	lda     #$C0
 	sta     $D40E
-L0889:	lda     #$00
-L08A9:	sta     $022F
+L0890:	lda     #$00
+L08B0:	sta     $022F
 	lda     _currentCave
 	jsr     pusha
 	jsr     _rebuildCaveElementArray
@@ -522,10 +522,10 @@ L08A9:	sta     $022F
 	lda     _currentCave
 	and     #$03
 	cmp     #$02
-	bcs     L0199
+	bcs     L01A0
 	jsr     _get_tv
 	cmp     #$01
-	bne     L019D
+	bne     L01A4
 	lda     #$0C
 	sta     $02C5
 	lda     #$86
@@ -533,18 +533,18 @@ L08A9:	sta     $022F
 	lda     #$F2
 	sta     $02C4
 	lda     #$F4
-	jmp     L0885
-L019D:	lda     #$0C
+	jmp     L088C
+L01A4:	lda     #$0C
 	sta     $02C5
 	lda     #$96
 	sta     $02C6
 	lda     #$32
 	sta     $02C4
 	lda     #$34
-	jmp     L0885
-L0199:	jsr     _get_tv
+	jmp     L088C
+L01A0:	jsr     _get_tv
 	cmp     #$01
-	bne     L01C9
+	bne     L01D0
 	lda     #$0C
 	sta     $02C5
 	lda     #$B8
@@ -552,15 +552,15 @@ L0199:	jsr     _get_tv
 	lda     #$54
 	sta     $02C4
 	lda     #$66
-	jmp     L0885
-L01C9:	lda     #$0C
+	jmp     L088C
+L01D0:	lda     #$0C
 	sta     $02C5
 	lda     #$D8
 	sta     $02C6
 	lda     #$54
 	sta     $02C4
 	lda     #$56
-L0885:	sta     $02C7
+L088C:	sta     $02C7
 	lda     $02C5
 	sta     _colorStore1
 	lda     $02C6
@@ -598,12 +598,12 @@ L0885:	sta     $02C7
 	sta     (sp),y
 	lda     #$3E
 	sta     $022F
-	jmp     L02C6
-L021F:	lda     $D01F
+	jmp     L02CD
+L0226:	lda     $D01F
 	cmp     #$07
-	beq     L088B
+	beq     L0892
 	cmp     #$06
-	bne     L088A
+	bne     L0891
 	lda     #$00
 	sta     _stayHere
 	lda     #$01
@@ -611,17 +611,17 @@ L021F:	lda     $D01F
 	sta     (sp),y
 	lda     #$00
 	sta     $004D
-	jmp     L08A0
-L088A:	lda     $D01F
+	jmp     L08A7
+L0891:	lda     $D01F
 	cmp     #$03
-	bne     L088B
+	bne     L0892
 	lda     #$01
 	sta     _caveDeath
 	lda     #$00
 	sta     _stayHere
 	sta     $004D
-	jmp     L0220
-L088B:	lda     _minerX
+	jmp     L0227
+L0892:	lda     _minerX
 	jsr     pusha0
 	lda     #$16
 	jsr     tosmula0
@@ -661,19 +661,19 @@ L088B:	lda     _minerX
 	tay
 	lda     _passable,y
 	cmp     #$01
-	bne     L0249
+	bne     L0250
 	ldy     #$0A
 	lda     (sp),y
 	cmp     #$07
-	beq     L0249
+	beq     L0250
 	iny
 	lda     (sp),y
 	cmp     #$07
-	beq     L0249
+	beq     L0250
 	ldy     #$09
 	lda     (sp),y
 	cmp     $0014
-	beq     L0261
+	beq     L0268
 	dey
 	lda     (sp),y
 	clc
@@ -685,7 +685,7 @@ L088B:	lda     _minerX
 	dey
 	lda     (sp),y
 	cmp     _fallSpeed
-	bne     L0261
+	bne     L0268
 	jsr     _fallDown
 	ldy     #$07
 	lda     (sp),y
@@ -699,38 +699,38 @@ L088B:	lda     _minerX
 	dey
 	lda     (sp),y
 	cmp     #$07
-	bcc     L0261
+	bcc     L0268
 	lda     #$00
 	sta     _stayHere
 	lda     #$01
 	sta     _caveDeath
-	jmp     L02C6
-L0261:	ldy     #$06
+	jmp     L02CD
+L0268:	ldy     #$06
 	lda     (sp),y
 	ora     #$04
 	sta     (sp),y
 	lda     #$00
-	jmp     L08BB
-L0249:	ldy     #$06
+	jmp     L08C2
+L0250:	ldy     #$06
 	lda     (sp),y
 	and     #$03
-	beq     L088F
+	beq     L0896
 	lda     #$02
 	dey
 	sta     (sp),y
 	lda     #$00
-L088F:	ldy     #$08
+L0896:	ldy     #$08
 	sta     (sp),y
 	dey
 	sta     (sp),y
-L08BB:	dey
+L08C2:	dey
 	sta     (sp),y
 	ldy     #$0B
 	lda     (sp),y
 	tay
 	lda     _broken,y
 	cmp     #$01
-	jne     L02A1
+	jne     L02A8
 	lda     _minerY
 	clc
 	adc     #$01
@@ -738,7 +738,7 @@ L08BB:	dey
 	ldy     #$04
 	lda     (sp),y
 	cmp     $0014
-	beq     L0890
+	beq     L0897
 	lda     _minerX
 	jsr     pusha0
 	lda     #$16
@@ -752,9 +752,9 @@ L08BB:	dey
 	tya
 	clc
 	adc     _y1
-	bcc     L0879
+	bcc     L0880
 	inx
-L0879:	jsr     pushax
+L0880:	jsr     pushax
 	sta     ptr1
 	stx     ptr1+1
 	ldy     #$00
@@ -765,7 +765,7 @@ L0879:	jsr     pushax
 	lda     $0014
 	ldy     #$04
 	sta     (sp),y
-L0890:	lda     _minerX
+L0897:	lda     _minerX
 	jsr     pusha0
 	lda     #$16
 	jsr     tosmula0
@@ -778,7 +778,7 @@ L0890:	lda     _minerX
 	ldy     _y1
 	lda     (ptr1),y
 	cmp     _brokenSpeed
-	jne     L02A1
+	jne     L02A8
 	lda     _minerX
 	jsr     pusha0
 	lda     #$16
@@ -792,9 +792,9 @@ L0890:	lda     _minerX
 	tya
 	clc
 	adc     _y1
-	bcc     L087B
+	bcc     L0882
 	inx
-L087B:	sta     ptr1
+L0882:	sta     ptr1
 	stx     ptr1+1
 	lda     #$00
 	tay
@@ -802,7 +802,7 @@ L087B:	sta     ptr1
 	ldy     #$0B
 	lda     (sp),y
 	cmp     #$14
-	bcs     L0891
+	bcs     L0898
 	lda     _minerX
 	jsr     pusha0
 	lda     #$16
@@ -816,9 +816,9 @@ L087B:	sta     ptr1
 	tya
 	clc
 	adc     _y1
-	bcc     L087C
+	bcc     L0883
 	inx
-L087C:	jsr     pushax
+L0883:	jsr     pushax
 	sta     ptr1
 	stx     ptr1+1
 	ldy     #$00
@@ -826,8 +826,8 @@ L087C:	jsr     pushax
 	clc
 	adc     #$01
 	jsr     staspidx
-	jmp     L08BA
-L0891:	lda     _minerX
+	jmp     L08C1
+L0898:	lda     _minerX
 	jsr     pusha0
 	lda     #$16
 	jsr     tosmula0
@@ -840,14 +840,14 @@ L0891:	lda     _minerX
 	tya
 	clc
 	adc     _y1
-	bcc     L087E
+	bcc     L0885
 	inx
-L087E:	sta     ptr1
+L0885:	sta     ptr1
 	stx     ptr1+1
 	lda     #$00
 	tay
 	sta     (ptr1),y
-L08BA:	lda     _minerX
+L08C1:	lda     _minerX
 	jsr     pusha
 	lda     _y1
 	jsr     pusha
@@ -865,10 +865,10 @@ L08BA:	lda     _minerX
 	lda     (ptr1),y
 	jsr     pusha
 	jsr     _paintElement
-L02A1:	ldy     #$0B
+L02A8:	ldy     #$0B
 	lda     (sp),y
 	cmp     #$06
-	bne     L0892
+	bne     L0899
 	lda     _minerX
 	jsr     pusha0
 	lda     #$16
@@ -900,8 +900,8 @@ L02A1:	ldy     #$0B
 	lda     #$00
 	jsr     pusha
 	jsr     _paintElement
-L0892:	lda     _mvDelay
-	jne     L02C6
+L0899:	lda     _mvDelay
+	jne     L02CD
 	lda     $0278
 	ldy     #$0D
 	sta     (sp),y
@@ -911,26 +911,26 @@ L0892:	lda     _mvDelay
 	iny
 	lda     (sp),y
 	cmp     #$06
-	beq     L02C9
+	beq     L02D0
 	cmp     #$07
-	beq     L02C9
+	beq     L02D0
 	cmp     #$0A
-	jeq     L031A
+	jeq     L0321
 	cmp     #$0B
-	jeq     L031A
+	jeq     L0321
 	cmp     #$0D
-	jeq     L036B
+	jeq     L0372
 	cmp     #$0E
-	jeq     L0375
-	jmp     L089F
-L02C9:	dey
+	jeq     L037C
+	jmp     L08A6
+L02D0:	dey
 	lda     (sp),y
-	bne     L02CD
+	bne     L02D4
 	dey
 	lda     (sp),y
 	tay
 	lda     _notJump,y
-	bne     L02CD
+	bne     L02D4
 	lda     #$12
 	jsr     pusha
 	jsr     _playSFX
@@ -945,13 +945,13 @@ L02C9:	dey
 	sta     (sp),y
 	jsr     _jumpUp
 	tax
-	jne     L02C6
+	jne     L02CD
 	lda     #$04
 	jsr     pusha0
 	jsr     _delay
 	jsr     _jumpUp
 	tax
-	jne     L02C6
+	jne     L02CD
 	lda     #$04
 	jsr     pusha0
 	jsr     _delay
@@ -973,46 +973,46 @@ L02C9:	dey
 	lda     #<(_minerDataNormal)
 	sta     _minerData
 	jsr     _repaintMiner
-	jmp     L02C6
-L02CD:	ldy     #$06
+	jmp     L02CD
+L02D4:	ldy     #$06
 	lda     (sp),y
 	and     #$04
 	cmp     #$04
-	bne     L02FA
+	bne     L0301
 	lda     (sp),y
 	and     #$02
-	bne     L0897
+	bne     L089E
 	jsr     _moveRight
 	tax
-	beq     L0898
+	beq     L089F
 	ldy     #$06
 	lda     (sp),y
 	ora     #$02
 	sta     (sp),y
-	jmp     L0897
-L02FA:	dey
+	jmp     L089E
+L0301:	dey
 	lda     (sp),y
-	bne     L0896
+	bne     L089D
 	jsr     _moveRight
-	jmp     L0897
-L0896:	lda     (sp),y
+	jmp     L089E
+L089D:	lda     (sp),y
 	sec
 	sbc     #$01
 	sta     (sp),y
 	lda     _controlDelay
 	sta     _mvDelay
-L0897:	lda     #$00
-L0898:	sta     $004D
+L089E:	lda     #$00
+L089F:	sta     $004D
 	jsr     _checkDeath
-	jmp     L02C6
-L031A:	dey
+	jmp     L02CD
+L0321:	dey
 	lda     (sp),y
-	bne     L031E
+	bne     L0325
 	dey
 	lda     (sp),y
 	tay
 	lda     _notJump,y
-	bne     L031E
+	bne     L0325
 	lda     #$12
 	jsr     pusha
 	jsr     _playSFX
@@ -1027,13 +1027,13 @@ L031A:	dey
 	sta     (sp),y
 	jsr     _jumpUp
 	tax
-	jne     L02C6
+	jne     L02CD
 	lda     #$04
 	jsr     pusha0
 	jsr     _delay
 	jsr     _jumpUp
 	tax
-	jne     L02C6
+	jne     L02CD
 	lda     #$04
 	jsr     pusha0
 	jsr     _delay
@@ -1055,51 +1055,51 @@ L031A:	dey
 	lda     #<(_minerDataNormal)
 	sta     _minerData
 	jsr     _repaintMiner
-	jmp     L02C6
-L031E:	ldy     #$06
+	jmp     L02CD
+L0325:	ldy     #$06
 	lda     (sp),y
 	and     #$04
 	cmp     #$04
-	bne     L034B
+	bne     L0352
 	lda     (sp),y
 	and     #$01
-	bne     L089D
+	bne     L08A4
 	jsr     _moveLeft
 	tax
-	beq     L089E
+	beq     L08A5
 	ldy     #$06
 	lda     (sp),y
 	ora     #$01
 	sta     (sp),y
-	jmp     L089D
-L034B:	dey
+	jmp     L08A4
+L0352:	dey
 	lda     (sp),y
-	bne     L089C
+	bne     L08A3
 	jsr     _moveLeft
-	jmp     L089D
-L089C:	lda     (sp),y
+	jmp     L08A4
+L08A3:	lda     (sp),y
 	sec
 	sbc     #$01
 	sta     (sp),y
 	lda     _controlDelay
 	sta     _mvDelay
-L089D:	lda     #$00
-L089E:	sta     $004D
+L08A4:	lda     #$00
+L08A5:	sta     $004D
 	jsr     _checkDeath
-	jmp     L02C6
-L036B:	jsr     _moveDown
+	jmp     L02CD
+L0372:	jsr     _moveDown
 	lda     #$00
 	sta     $004D
 	jsr     _checkDeath
-	jmp     L02C6
-L0375:	dey
+	jmp     L02CD
+L037C:	dey
 	lda     (sp),y
-	bne     L0376
+	bne     L037D
 	dey
 	lda     (sp),y
 	tay
 	lda     _notJump,y
-	bne     L02C6
+	bne     L02CD
 	ldy     #$07
 	sta     (sp),y
 	lda     #$12
@@ -1108,21 +1108,21 @@ L0375:	dey
 	lda     #$00
 	sta     $004D
 	jsr     _handleHighJump
-	jmp     L02C6
-L0376:	jsr     _moveUp
+	jmp     L02CD
+L037D:	jsr     _moveUp
 	lda     #$00
 	sta     $004D
 	jsr     _checkDeath
-	jmp     L02C6
-L089F:	lda     #$00
+	jmp     L02CD
+L08A6:	lda     #$00
 	ldy     #$05
 	sta     (sp),y
 	sta     _mvDelay
-L02C6:	lda     _stayHere
-	jne     L021F
-L0220:	ldy     #$03
-L08A0:	lda     (sp),y
-	beq     L0393
+L02CD:	lda     _stayHere
+	jne     L0226
+L0227:	ldy     #$03
+L08A7:	lda     (sp),y
+	beq     L039A
 	lda     #$F8
 	jsr     pusha
 	lda     #$20
@@ -1130,12 +1130,12 @@ L08A0:	lda     (sp),y
 	jsr     _setMinerPos
 	lda     #$03
 	sta     _gameOverType
-	jmp     L018D
-L0393:	lda     _caveAllPicked
-	beq     L039B
+	jmp     L0194
+L039A:	lda     _caveAllPicked
+	beq     L03A2
 	lda     _gameType
 	cmp     #$01
-	bne     L08A1
+	bne     L08A8
 	lda     #$F8
 	jsr     pusha
 	lda     #$20
@@ -1143,11 +1143,11 @@ L0393:	lda     _caveAllPicked
 	jsr     _setMinerPos
 	lda     #$03
 	sta     _gameOverType
-	jmp     L018D
-L08A1:	inc     _currentCave
+	jmp     L0194
+L08A8:	inc     _currentCave
 	lda     _currentCave
 	cmp     #$0D
-	bne     L08A2
+	bne     L08A9
 	lda     #$F8
 	jsr     pusha
 	lda     #$20
@@ -1155,27 +1155,27 @@ L08A1:	inc     _currentCave
 	jsr     _setMinerPos
 	lda     #$02
 	sta     _gameOverType
-	jmp     L018D
-L08A2:	lda     _currentCave
+	jmp     L0194
+L08A9:	lda     _currentCave
 	sec
 	sbc     _maxCaveReached
-	bcc     L03B1
-	beq     L03B1
+	bcc     L03B8
+	beq     L03B8
 	lda     _currentCave
 	sta     _maxCaveReached
-L03B1:	lda     #$0C
+L03B8:	lda     #$0C
 	jsr     pusha
 	jsr     _playSFX
-	jmp     L0889
-L039B:	lda     _caveDeath
-	jeq     L08A9
+	jmp     L0890
+L03A2:	lda     _caveDeath
+	jeq     L08B0
 	ldy     #$06
 	lda     (sp),y
 	and     #$04
 	cmp     #$04
-	bne     L03C1
-	jmp     L08A4
-L08A3:	inc     _minerY
+	bne     L03C8
+	jmp     L08AB
+L08AA:	inc     _minerY
 	lda     _minerX
 	jsr     pusha
 	lda     _minerY
@@ -1184,9 +1184,9 @@ L08A3:	inc     _minerY
 	lda     #$03
 	jsr     pusha0
 	jsr     _delay
-L08A4:	lda     _minerY
+L08AB:	lda     _minerY
 	cmp     #$16
-	bcs     L03C1
+	bcs     L03C8
 	lda     _minerX
 	jsr     pusha0
 	lda     #$16
@@ -1208,8 +1208,8 @@ L08A4:	lda     _minerY
 	sta     ptr1+1
 	ldy     #$00
 	lda     (ptr1),y
-	beq     L08A3
-L03C1:	lda     #$F8
+	beq     L08AA
+L03C8:	lda     #$F8
 	jsr     pusha
 	lda     #$20
 	jsr     pusha
@@ -1248,13 +1248,13 @@ L03C1:	lda     #$F8
 	jsr     pusha0
 	jsr     _delay
 	lda     _lives
-	bne     L08A7
+	bne     L08AE
 	lda     #$01
 	sta     _gameOverType
-	jmp     L018D
-L08A7:	dec     _lives
-	jmp     L0889
-L018D:	ldy     #$0E
+	jmp     L0194
+L08AE:	dec     _lives
+	jmp     L0890
+L0194:	ldy     #$0E
 	jmp     addysp
 
 .endproc
@@ -1284,10 +1284,10 @@ L018D:	ldy     #$0E
 	ldy     #$02
 	lda     (sp),y
 	asl     a
-	bcc     L08BD
+	bcc     L08C4
 	inx
 	clc
-L08BD:	adc     ptr1
+L08C4:	adc     ptr1
 	sta     _i2
 	txa
 	adc     ptr1+1
@@ -1329,14 +1329,14 @@ L08BD:	adc     ptr1
 
 	lda     #$00
 	sta     _y1
-L08BF:	lda     _y1
+L08C6:	lda     _y1
 	cmp     #$16
-	bcs     L0407
+	bcs     L040E
 	lda     #$00
 	sta     _x1
-L08C0:	lda     _x1
+L08C7:	lda     _x1
 	cmp     #$14
-	bcs     L08C1
+	bcs     L08C8
 	jsr     pusha
 	lda     _y1
 	jsr     pusha
@@ -1355,10 +1355,10 @@ L08C0:	lda     _x1
 	jsr     pusha
 	jsr     _paintElement
 	inc     _x1
-	jmp     L08C0
-L08C1:	inc     _y1
-	jmp     L08BF
-L0407:	rts
+	jmp     L08C7
+L08C8:	inc     _y1
+	jmp     L08C6
+L040E:	rts
 
 .endproc
 
@@ -1378,11 +1378,11 @@ L0407:	rts
 	ldy     #$08
 	lda     (sp),y
 	and     #$01
-	beq     L041F
+	beq     L0426
 	lda     #>(_CLM_DATA_CHARSET2)
-	jmp     L08C4
-L041F:	lda     #>(_CLM_DATA_CHARSET1)
-L08C4:	sta     $02F4
+	jmp     L08CB
+L0426:	lda     #>(_CLM_DATA_CHARSET1)
+L08CB:	sta     $02F4
 	lda     #<(_CLM_DATA_CAVES)
 	ldx     #>(_CLM_DATA_CAVES)
 	ldy     #$02
@@ -1422,14 +1422,14 @@ L08C4:	sta     $02F4
 	jsr     staxysp
 	lda     #$00
 	tay
-L08CA:	sta     (sp),y
+L08D1:	sta     (sp),y
 	cmp     #$16
-	jcs     L0441
+	jcs     L0448
 	tya
 	iny
-L08C5:	sta     (sp),y
+L08CC:	sta     (sp),y
 	cmp     #$14
-	jcs     L0442
+	jcs     L0449
 	ldy     #$03
 	jsr     ldaxysp
 	sta     ptr1
@@ -1453,14 +1453,14 @@ L08C5:	sta     (sp),y
 	sta     (sp),y
 	ldx     #$00
 	txa
-L08CB:	ldy     #$04
+L08D2:	ldy     #$04
 	jsr     staxysp
 	cmp     #$02
 	txa
 	sbc     #$00
-	bvc     L0462
+	bvc     L0469
 	eor     #$80
-L0462:	bpl     L045C
+L0469:	bpl     L0463
 	lda     #$06
 	jsr     leaa0sp
 	ldy     #$04
@@ -1474,11 +1474,11 @@ L0462:	bpl     L045C
 	ldy     #$00
 	lda     (ptr1),y
 	cmp     #$0E
-	beq     L08C8
+	beq     L08CF
 	cmp     #$0F
-	beq     L0473
-	jmp     L045D
-L08C8:	inc     _diamondsInCave
+	beq     L047A
+	jmp     L0464
+L08CF:	inc     _diamondsInCave
 	lda     #$06
 	jsr     leaa0sp
 	ldy     #$04
@@ -1499,8 +1499,8 @@ L08C8:	inc     _diamondsInCave
 	jsr     incaxy
 	ldy     #$00
 	jsr     staspidx
-	jmp     L045D
-L0473:	lda     #$06
+	jmp     L0464
+L047A:	lda     #$06
 	jsr     leaa0sp
 	ldy     #$04
 	clc
@@ -1513,11 +1513,11 @@ L0473:	lda     #$06
 	lda     #$0D
 	ldy     #$00
 	sta     (ptr1),y
-L045D:	ldy     #$05
+L0464:	ldy     #$05
 	jsr     ldaxysp
 	jsr     incax1
-	jmp     L08CB
-L045C:	ldy     #$01
+	jmp     L08D2
+L0463:	ldy     #$01
 	lda     (sp),y
 	jsr     pusha0
 	lda     #$16
@@ -1533,9 +1533,9 @@ L045C:	ldy     #$01
 	clc
 	adc     ptr1
 	ldx     ptr1+1
-	bcc     L08C2
+	bcc     L08C9
 	inx
-L08C2:	sta     ptr1
+L08C9:	sta     ptr1
 	stx     ptr1+1
 	ldy     #$06
 	lda     (sp),y
@@ -1559,9 +1559,9 @@ L08C2:	sta     ptr1
 	clc
 	adc     ptr1
 	ldx     ptr1+1
-	bcc     L08C3
+	bcc     L08CA
 	inx
-L08C3:	sta     ptr1
+L08CA:	sta     ptr1
 	stx     ptr1+1
 	ldy     #$07
 	lda     (sp),y
@@ -1576,13 +1576,13 @@ L08C3:	sta     ptr1
 	clc
 	lda     #$02
 	adc     (sp),y
-	jmp     L08C5
-L0442:	dey
+	jmp     L08CC
+L0449:	dey
 	lda     (sp),y
 	clc
 	adc     #$01
-	jmp     L08CA
-L0441:	lda     #<(_caveBroken)
+	jmp     L08D1
+L0448:	lda     #<(_caveBroken)
 	ldx     #>(_caveBroken)
 	jsr     pushax
 	ldx     #$01
@@ -1617,11 +1617,11 @@ L0441:	lda     #<(_caveBroken)
 	sta     $D01D
 	jsr     _get_tv
 	cmp     #$01
-	bne     L049D
+	bne     L04A4
 	lda     #$A8
-	jmp     L08CC
-L049D:	lda     #$C8
-L08CC:	sta     $02C0
+	jmp     L08D3
+L04A4:	lda     #$C8
+L08D3:	sta     $02C0
 	lda     #$00
 	sta     _p0x
 	sta     _p0x+1
@@ -1761,24 +1761,24 @@ L08CC:	sta     $02C0
 .segment	"CODE"
 
 	jsr     push0
-L08D0:	jsr     stax0sp
+L08D7:	jsr     stax0sp
 	ldy     #$02
 	cmp     (sp),y
 	txa
 	iny
 	sbc     (sp),y
-	bcs     L04D3
+	bcs     L04DA
 	lda     $0014
 	jsr     pusha
 	ldy     #$00
-L08CF:	lda     (sp),y
+L08D6:	lda     (sp),y
 	cmp     $0014
-	beq     L08CF
+	beq     L08D6
 	jsr     incsp1
 	jsr     ldax0sp
 	jsr     incax1
-	jmp     L08D0
-L04D3:	jmp     incsp4
+	jmp     L08D7
+L04DA:	jmp     incsp4
 
 .endproc
 
@@ -1794,11 +1794,11 @@ L04D3:	jmp     incsp4
 
 	ldy     #$01
 	lda     (sp),y
-	bne     L06BC
+	bne     L06C3
 	dey
 	lda     (sp),y
 	cmp     #$01
-	bne     L08D2
+	bne     L08D9
 	lda     #$0E
 	sta     _brokenSpeed
 	lda     #$05
@@ -1808,8 +1808,8 @@ L04D3:	jmp     incsp4
 	lda     #$07
 	sta     _controlDelay
 	lda     #$03
-	jmp     L08D1
-L08D2:	lda     #$11
+	jmp     L08D8
+L08D9:	lda     #$11
 	sta     _brokenSpeed
 	lda     #$06
 	sta     _hijumpSpeedA
@@ -1818,11 +1818,11 @@ L08D2:	lda     #$11
 	lda     #$09
 	sta     _controlDelay
 	lda     #$04
-	jmp     L08D1
-L06BC:	dey
+	jmp     L08D8
+L06C3:	dey
 	lda     (sp),y
 	cmp     #$01
-	bne     L08D3
+	bne     L08DA
 	lda     #$15
 	sta     _brokenSpeed
 	lda     #$07
@@ -1832,8 +1832,8 @@ L06BC:	dey
 	lda     #$0C
 	sta     _controlDelay
 	lda     #$04
-	jmp     L08D1
-L08D3:	lda     #$19
+	jmp     L08D8
+L08DA:	lda     #$19
 	sta     _brokenSpeed
 	lda     #$08
 	sta     _hijumpSpeedA
@@ -1842,7 +1842,7 @@ L08D3:	lda     #$19
 	lda     #$0F
 	sta     _controlDelay
 	lda     #$05
-L08D1:	sta     _fallSpeed
+L08D8:	sta     _fallSpeed
 	jmp     incsp2
 
 .endproc
@@ -1868,36 +1868,36 @@ L08D1:	sta     _fallSpeed
 	jsr     pusha
 	lda     #$04
 	jsr     pusha
-	lda     #<(L070A)
-	ldx     #>(L070A)
+	lda     #<(L0711)
+	ldx     #>(L0711)
 	jsr     _cputsxy
 	lda     #$02
 	jsr     pusha
 	lda     #$06
 	jsr     pusha
-	lda     #<(L070F)
-	ldx     #>(L070F)
+	lda     #<(L0716)
+	ldx     #>(L0716)
 	jsr     _cputsxy
 	lda     #$02
 	jsr     pusha
 	lda     #$07
 	jsr     pusha
-	lda     #<(L0714)
-	ldx     #>(L0714)
+	lda     #<(L071B)
+	ldx     #>(L071B)
 	jsr     _cputsxy
 	lda     #$02
 	jsr     pusha
 	lda     #$0B
 	jsr     pusha
-	lda     #<(L0719)
-	ldx     #>(L0719)
+	lda     #<(L0720)
+	ldx     #>(L0720)
 	jsr     _cputsxy
 	lda     #$02
 	jsr     pusha
 	lda     #$0C
 	jsr     pusha
-	lda     #<(L071E)
-	ldx     #>(L071E)
+	lda     #<(L0725)
+	ldx     #>(L0725)
 	jsr     _cputsxy
 	jsr     _setTextModeSettings
 	lda     #$3E
@@ -1907,9 +1907,9 @@ L08D1:	sta     _fallSpeed
 	jsr     _delay
 	lda     #$00
 	sta     _x1
-L08D4:	lda     _x1
+L08DB:	lda     _x1
 	cmp     #$03
-	bcs     L08D5
+	bcs     L08DC
 	lda     #$10
 	jsr     pusha
 	jsr     _playSFX
@@ -1917,16 +1917,16 @@ L08D4:	lda     _x1
 	jsr     pusha0
 	jsr     _delay
 	inc     _x1
-	jmp     L08D4
-L08D5:	lda     #$64
+	jmp     L08DB
+L08DC:	lda     #$64
 	jsr     pusha0
 	jsr     _delay
 	lda     #$02
 	jsr     pusha
 	lda     #$14
 	jsr     pusha
-	lda     #<(L073B)
-	ldx     #>(L073B)
+	lda     #<(L0742)
+	ldx     #>(L0742)
 	jsr     _cputsxy
 	lda     #$01
 	jsr     _revers
@@ -1934,8 +1934,8 @@ L08D5:	lda     #$64
 	jsr     pusha
 	lda     #$14
 	jsr     pusha
-	lda     #<(L0742)
-	ldx     #>(L0742)
+	lda     #<(L0749)
+	ldx     #>(L0749)
 	jsr     _cputsxy
 	lda     #$00
 	jsr     _revers
@@ -1943,14 +1943,14 @@ L08D5:	lda     #$64
 	jsr     pusha
 	lda     #$14
 	jsr     pusha
-	lda     #<(L0749)
-	ldx     #>(L0749)
+	lda     #<(L0750)
+	ldx     #>(L0750)
 	jsr     _cputsxy
 	lda     #$0A
 	jsr     pusha0
 	jsr     _delay
-L074D:	lda     $0284
-	bne     L074D
+L0754:	lda     $0284
+	bne     L0754
 	rts
 
 .endproc
@@ -1976,8 +1976,8 @@ L074D:	lda     $0284
 	jsr     pusha
 	lda     #$0B
 	jsr     pusha
-	lda     #<(L0767)
-	ldx     #>(L0767)
+	lda     #<(L076E)
+	ldx     #>(L076E)
 	jsr     _cputsxy
 	jsr     _setTextModeSettings
 	lda     #$3E
@@ -1989,8 +1989,8 @@ L074D:	lda     $0284
 	jsr     pusha
 	lda     #$0D
 	jsr     pusha
-	lda     #<(L0775)
-	ldx     #>(L0775)
+	lda     #<(L077C)
+	ldx     #>(L077C)
 	jsr     _cputsxy
 	lda     #$01
 	jsr     _revers
@@ -1998,8 +1998,8 @@ L074D:	lda     $0284
 	jsr     pusha
 	lda     #$0D
 	jsr     pusha
-	lda     #<(L077C)
-	ldx     #>(L077C)
+	lda     #<(L0783)
+	ldx     #>(L0783)
 	jsr     _cputsxy
 	lda     #$00
 	jsr     _revers
@@ -2007,11 +2007,11 @@ L074D:	lda     $0284
 	jsr     pusha
 	lda     #$0D
 	jsr     pusha
-	lda     #<(L0783)
-	ldx     #>(L0783)
+	lda     #<(L078A)
+	ldx     #>(L078A)
 	jsr     _cputsxy
-L0785:	lda     $0284
-	bne     L0785
+L078C:	lda     $0284
+	bne     L078C
 	rts
 
 .endproc
@@ -2037,8 +2037,8 @@ L0785:	lda     $0284
 	jsr     pusha
 	lda     #$0A
 	jsr     pusha
-	lda     #<(L079F)
-	ldx     #>(L079F)
+	lda     #<(L07A6)
+	ldx     #>(L07A6)
 	jsr     _cputsxy
 	jsr     _setTextModeSettings
 	lda     #$3E
@@ -2063,11 +2063,11 @@ L0785:	lda     $0284
 	sta     $02C5
 	jsr     _get_tv
 	cmp     #$01
-	bne     L0866
+	bne     L086D
 	lda     #$30
-	jmp     L08D6
-L0866:	lda     #$32
-L08D6:	sta     $02C6
+	jmp     L08DD
+L086D:	lda     #$32
+L08DD:	sta     $02C6
 	lda     #$E0
 	sta     $02F4
 	rts
@@ -2100,23 +2100,23 @@ L08D6:	sta     $02C6
 	lda     #$01
 	jsr     pusha
 	jsr     pusha
-	lda     #<(L062A)
-	ldx     #>(L062A)
+	lda     #<(L0631)
+	ldx     #>(L0631)
 	jsr     _cputsxy
 	lda     #$01
 	jsr     pusha
 	lda     #$02
 	jsr     pusha
-	lda     #<(L062F)
-	ldx     #>(L062F)
+	lda     #<(L0636)
+	ldx     #>(L0636)
 	jsr     _cputsxy
 	lda     #$00
 	jsr     _revers
 	lda     #$01
 	ldy     #$00
-L08D9:	sta     (sp),y
+L08E0:	sta     (sp),y
 	cmp     #$27
-	bcs     L0634
+	bcs     L063B
 	lda     (sp),y
 	jsr     pusha
 	lda     #$00
@@ -2154,56 +2154,56 @@ L08D9:	sta     (sp),y
 	lda     (sp),y
 	clc
 	adc     #$01
-	jmp     L08D9
-L0634:	lda     #$02
+	jmp     L08E0
+L063B:	lda     #$02
 	jsr     pusha
 	lda     #$13
 	jsr     pusha
-	lda     #<(L0652)
-	ldx     #>(L0652)
+	lda     #<(L0659)
+	ldx     #>(L0659)
 	jsr     _cputsxy
 	lda     #$02
 	jsr     pusha
 	lda     #$14
 	jsr     pusha
-	lda     #<(L0657)
-	ldx     #>(L0657)
+	lda     #<(L065E)
+	ldx     #>(L065E)
 	jsr     _cputsxy
 	lda     #$02
 	jsr     pusha
 	lda     #$15
 	jsr     pusha
-	lda     #<(L065C)
-	ldx     #>(L065C)
+	lda     #<(L0663)
+	ldx     #>(L0663)
 	jsr     _cputsxy
 	lda     #$23
 	jsr     pusha
 	lda     #$15
 	jsr     pusha
-	lda     #<(L0661)
-	ldx     #>(L0661)
+	lda     #<(L0668)
+	ldx     #>(L0668)
 	jsr     _cputsxy
 	lda     #$02
 	jsr     pusha
 	lda     #$08
 	jsr     pusha
-	lda     #<(L0666)
-	ldx     #>(L0666)
+	lda     #<(L066D)
+	ldx     #>(L066D)
 	jsr     _cputsxy
 	lda     #$0D
 	jsr     pusha
 	lda     #$08
 	jsr     pusha
-	lda     #<(L066B)
-	ldx     #>(L066B)
+	lda     #<(L0672)
+	ldx     #>(L0672)
 	jsr     _cputsxy
 	lda     #$01
 	jsr     _revers
 	lda     #$08
 	jsr     pusha
 	jsr     pusha
-	lda     #<(L0672)
-	ldx     #>(L0672)
+	lda     #<(L0679)
+	ldx     #>(L0679)
 	jsr     _cputsxy
 	lda     #$00
 	jsr     _revers
@@ -2211,8 +2211,8 @@ L0634:	lda     #$02
 	jsr     pusha
 	lda     #$0C
 	jsr     pusha
-	lda     #<(L0679)
-	ldx     #>(L0679)
+	lda     #<(L0680)
+	ldx     #>(L0680)
 	jsr     _cputsxy
 	lda     #$05
 	jsr     pusha
@@ -2230,15 +2230,15 @@ L0634:	lda     #$02
 	jsr     pusha
 	lda     #$0C
 	jsr     pusha
-	lda     #<(L0686)
-	ldx     #>(L0686)
+	lda     #<(L068D)
+	ldx     #>(L068D)
 	jsr     _cputsxy
 	lda     #$02
 	jsr     pusha
 	lda     #$0D
 	jsr     pusha
-	lda     #<(L068B)
-	ldx     #>(L068B)
+	lda     #<(L0692)
+	ldx     #>(L0692)
 	jsr     _cputsxy
 	lda     #$05
 	jsr     pusha
@@ -2250,15 +2250,15 @@ L0634:	lda     #$02
 	jsr     pusha
 	lda     #$0D
 	jsr     pusha
-	lda     #<(L0694)
-	ldx     #>(L0694)
+	lda     #<(L069B)
+	ldx     #>(L069B)
 	jsr     _cputsxy
 	lda     #$02
 	jsr     pusha
 	lda     #$0E
 	jsr     pusha
-	lda     #<(L0699)
-	ldx     #>(L0699)
+	lda     #<(L06A0)
+	ldx     #>(L06A0)
 	jsr     _cputsxy
 	lda     #$05
 	jsr     pusha
@@ -2270,8 +2270,8 @@ L0634:	lda     #$02
 	jsr     pusha
 	lda     #$0E
 	jsr     pusha
-	lda     #<(L06A2)
-	ldx     #>(L06A2)
+	lda     #<(L06A9)
+	ldx     #>(L06A9)
 	jsr     _cputsxy
 	jsr     _displayStartingCave
 	jsr     _displayGameSpeed
@@ -2300,203 +2300,203 @@ L0634:	lda     #$02
 	lda     #$01
 	jsr     pusha
 	jsr     pusha
-	lda     #<(L07B2)
-	ldx     #>(L07B2)
+	lda     #<(L07B9)
+	ldx     #>(L07B9)
 	jsr     _cputsxy
 	lda     #$01
 	jsr     pusha
 	lda     #$02
 	jsr     pusha
-	lda     #<(L07B7)
-	ldx     #>(L07B7)
+	lda     #<(L07BE)
+	ldx     #>(L07BE)
 	jsr     _cputsxy
 	lda     #$01
 	jsr     pusha
 	lda     #$04
 	jsr     pusha
-	lda     #<(L07BC)
-	ldx     #>(L07BC)
+	lda     #<(L07C3)
+	ldx     #>(L07C3)
 	jsr     _cputsxy
 	lda     #$01
 	jsr     pusha
 	lda     #$05
 	jsr     pusha
-	lda     #<(L07C1)
-	ldx     #>(L07C1)
+	lda     #<(L07C8)
+	ldx     #>(L07C8)
 	jsr     _cputsxy
 	lda     #$01
 	jsr     pusha
 	lda     #$06
 	jsr     pusha
-	lda     #<(L07C6)
-	ldx     #>(L07C6)
+	lda     #<(L07CD)
+	ldx     #>(L07CD)
 	jsr     _cputsxy
 	lda     #$01
 	jsr     pusha
 	lda     #$07
 	jsr     pusha
-	lda     #<(L07CB)
-	ldx     #>(L07CB)
+	lda     #<(L07D2)
+	ldx     #>(L07D2)
 	jsr     _cputsxy
 	lda     #$01
 	jsr     pusha
 	lda     #$09
 	jsr     pusha
-	lda     #<(L07D0)
-	ldx     #>(L07D0)
+	lda     #<(L07D7)
+	ldx     #>(L07D7)
 	jsr     _cputsxy
 	lda     #$01
 	jsr     pusha
 	lda     #$0A
 	jsr     pusha
-	lda     #<(L07D5)
-	ldx     #>(L07D5)
+	lda     #<(L07DC)
+	ldx     #>(L07DC)
 	jsr     _cputsxy
 	lda     #$01
 	jsr     pusha
 	lda     #$0B
 	jsr     pusha
-	lda     #<(L07DA)
-	ldx     #>(L07DA)
+	lda     #<(L07E1)
+	ldx     #>(L07E1)
 	jsr     _cputsxy
 	lda     #$01
 	jsr     pusha
 	lda     #$0D
 	jsr     pusha
-	lda     #<(L07DF)
-	ldx     #>(L07DF)
+	lda     #<(L07E6)
+	ldx     #>(L07E6)
 	jsr     _cputsxy
 	lda     #$01
 	jsr     pusha
 	lda     #$0E
 	jsr     pusha
-	lda     #<(L07E4)
-	ldx     #>(L07E4)
+	lda     #<(L07EB)
+	ldx     #>(L07EB)
 	jsr     _cputsxy
 	lda     #$01
 	jsr     pusha
 	lda     #$10
 	jsr     pusha
-	lda     #<(L07E9)
-	ldx     #>(L07E9)
+	lda     #<(L07F0)
+	ldx     #>(L07F0)
 	jsr     _cputsxy
 	lda     #$01
 	jsr     pusha
 	lda     #$11
 	jsr     pusha
-	lda     #<(L07EE)
-	ldx     #>(L07EE)
+	lda     #<(L07F5)
+	ldx     #>(L07F5)
 	jsr     _cputsxy
 	lda     #$01
-	jsr     pusha
-	lda     #$17
-	jsr     pusha
-	lda     #<(L07F3)
-	ldx     #>(L07F3)
-	jsr     _cputsxy
-	lda     #$01
-	jsr     _revers
-	lda     #$07
 	jsr     pusha
 	lda     #$17
 	jsr     pusha
 	lda     #<(L07FA)
 	ldx     #>(L07FA)
 	jsr     _cputsxy
-	lda     #$00
+	lda     #$01
 	jsr     _revers
-	lda     #$0C
+	lda     #$07
 	jsr     pusha
 	lda     #$17
 	jsr     pusha
 	lda     #<(L0801)
 	ldx     #>(L0801)
 	jsr     _cputsxy
-L0803:	lda     $0284
-	bne     L0803
+	lda     #$00
+	jsr     _revers
+	lda     #$0C
+	jsr     pusha
+	lda     #$17
+	jsr     pusha
+	lda     #<(L0808)
+	ldx     #>(L0808)
+	jsr     _cputsxy
+L080A:	lda     $0284
+	bne     L080A
 	jsr     _clrscr
 	lda     #$01
 	jsr     pusha
 	jsr     pusha
-	lda     #<(L080D)
-	ldx     #>(L080D)
+	lda     #<(L0814)
+	ldx     #>(L0814)
 	jsr     _cputsxy
 	lda     #$01
 	jsr     pusha
 	lda     #$02
 	jsr     pusha
-	lda     #<(L0812)
-	ldx     #>(L0812)
+	lda     #<(L0819)
+	ldx     #>(L0819)
 	jsr     _cputsxy
 	lda     #$01
 	jsr     pusha
 	lda     #$04
 	jsr     pusha
-	lda     #<(L0817)
-	ldx     #>(L0817)
+	lda     #<(L081E)
+	ldx     #>(L081E)
 	jsr     _cputsxy
 	lda     #$01
 	jsr     pusha
 	lda     #$05
 	jsr     pusha
-	lda     #<(L081C)
-	ldx     #>(L081C)
+	lda     #<(L0823)
+	ldx     #>(L0823)
 	jsr     _cputsxy
 	lda     #$01
 	jsr     pusha
 	lda     #$07
 	jsr     pusha
-	lda     #<(L0821)
-	ldx     #>(L0821)
+	lda     #<(L0828)
+	ldx     #>(L0828)
 	jsr     _cputsxy
 	lda     #$01
 	jsr     pusha
 	lda     #$08
 	jsr     pusha
-	lda     #<(L0826)
-	ldx     #>(L0826)
+	lda     #<(L082D)
+	ldx     #>(L082D)
 	jsr     _cputsxy
 	lda     #$01
 	jsr     pusha
 	lda     #$09
 	jsr     pusha
-	lda     #<(L082B)
-	ldx     #>(L082B)
+	lda     #<(L0832)
+	ldx     #>(L0832)
 	jsr     _cputsxy
 	lda     #$01
 	jsr     pusha
 	lda     #$0B
 	jsr     pusha
-	lda     #<(L0830)
-	ldx     #>(L0830)
+	lda     #<(L0837)
+	ldx     #>(L0837)
 	jsr     _cputsxy
 	lda     #$01
 	jsr     pusha
 	lda     #$0C
 	jsr     pusha
-	lda     #<(L0835)
-	ldx     #>(L0835)
+	lda     #<(L083C)
+	ldx     #>(L083C)
 	jsr     _cputsxy
 	lda     #$01
 	jsr     pusha
 	lda     #$11
 	jsr     pusha
-	lda     #<(L083A)
-	ldx     #>(L083A)
+	lda     #<(L0841)
+	ldx     #>(L0841)
 	jsr     _cputsxy
 	lda     #$01
 	jsr     pusha
 	lda     #$12
 	jsr     pusha
-	lda     #<(L083F)
-	ldx     #>(L083F)
+	lda     #<(L0846)
+	ldx     #>(L0846)
 	jsr     _cputsxy
 	lda     #$01
 	jsr     pusha
 	lda     #$17
 	jsr     pusha
-	lda     #<(L0844)
-	ldx     #>(L0844)
+	lda     #<(L084B)
+	ldx     #>(L084B)
 	jsr     _cputsxy
 	lda     #$01
 	jsr     _revers
@@ -2504,8 +2504,8 @@ L0803:	lda     $0284
 	jsr     pusha
 	lda     #$17
 	jsr     pusha
-	lda     #<(L084B)
-	ldx     #>(L084B)
+	lda     #<(L0852)
+	ldx     #>(L0852)
 	jsr     _cputsxy
 	lda     #$00
 	jsr     _revers
@@ -2513,13 +2513,13 @@ L0803:	lda     $0284
 	jsr     pusha
 	lda     #$17
 	jsr     pusha
-	lda     #<(L0852)
-	ldx     #>(L0852)
+	lda     #<(L0859)
+	ldx     #>(L0859)
 	jsr     _cputsxy
-L08DA:	lda     $0284
-	beq     L08DA
-L085A:	lda     $0284
-	bne     L085A
+L08E1:	lda     $0284
+	beq     L08E1
+L0861:	lda     $0284
+	bne     L0861
 	rts
 
 .endproc
@@ -2535,20 +2535,20 @@ L085A:	lda     $0284
 .segment	"CODE"
 
 	lda     _gameSpeed
-	bne     L06AD
+	bne     L06B4
 	lda     #$20
 	jsr     pusha
 	lda     #$0D
 	jsr     pusha
-	lda     #<(L06B3)
-	ldx     #>(L06B3)
+	lda     #<(L06BA)
+	ldx     #>(L06BA)
 	jmp     _cputsxy
-L06AD:	lda     #$20
+L06B4:	lda     #$20
 	jsr     pusha
 	lda     #$0D
 	jsr     pusha
-	lda     #<(L06B9)
-	ldx     #>(L06B9)
+	lda     #<(L06C0)
+	ldx     #>(L06C0)
 	jmp     _cputsxy
 
 .endproc
@@ -2567,8 +2567,8 @@ L06AD:	lda     #$20
 	jsr     pusha
 	lda     #$0C
 	jsr     _gotoxy
-	lda     #<(L06F3)
-	ldx     #>(L06F3)
+	lda     #<(L06FA)
+	ldx     #>(L06FA)
 	jsr     pushax
 	ldx     #$00
 	lda     _startingCave
@@ -2626,7 +2626,7 @@ L06AD:	lda     #$20
 .segment	"CODE"
 
 	lda     _minerX
-	beq     L08DC
+	beq     L08E3
 	ldx     #$00
 	lda     _minerX
 	jsr     decax1
@@ -2648,10 +2648,10 @@ L06AD:	lda     #$20
 	sta     ptr1+1
 	ldy     #<(_passable)
 	lda     (ptr1),y
-	bne     L08DD
-L08DC:	tax
+	bne     L08E4
+L08E3:	tax
 	rts
-L08DD:	dec     _minerX
+L08E4:	dec     _minerX
 	lda     _minerX
 	jsr     pusha
 	lda     _minerY
@@ -2678,7 +2678,7 @@ L08DD:	dec     _minerX
 
 	lda     _minerX
 	cmp     #$13
-	beq     L08DF
+	beq     L08E6
 	ldx     #$00
 	lda     _minerX
 	jsr     incax1
@@ -2700,11 +2700,11 @@ L08DD:	dec     _minerX
 	sta     ptr1+1
 	ldy     #<(_passable)
 	lda     (ptr1),y
-	bne     L08E0
-L08DF:	ldx     #$00
+	bne     L08E7
+L08E6:	ldx     #$00
 	txa
 	rts
-L08E0:	inc     _minerX
+L08E7:	inc     _minerX
 	lda     _minerX
 	jsr     pusha
 	lda     _minerY
@@ -2730,9 +2730,9 @@ L08E0:	inc     _minerX
 .segment	"CODE"
 
 	lda     _minerY
-	bne     L08E3
+	bne     L08EA
 	rts
-L08E3:	lda     _minerX
+L08EA:	lda     _minerX
 	jsr     pusha0
 	lda     #$16
 	jsr     tosmula0
@@ -2756,7 +2756,7 @@ L08E3:	lda     _minerX
 	sta     _x1
 	ldy     _x1
 	lda     _passable,y
-	beq     L0530
+	beq     L0537
 	lda     _minerX
 	jsr     pusha0
 	lda     #$16
@@ -2770,16 +2770,16 @@ L08E3:	lda     _minerX
 	ldy     _minerY
 	lda     (ptr1),y
 	cmp     #$07
-	bne     L0530
+	bne     L0537
 	lda     _x1
 	cmp     #$09
-	bne     L08E2
+	bne     L08E9
 	lda     #$00
 	sta     _stayHere
 	lda     #$01
 	sta     _caveDeath
 	rts
-L08E2:	dec     _minerY
+L08E9:	dec     _minerY
 	lda     _minerX
 	jsr     pusha
 	lda     _minerY
@@ -2788,7 +2788,7 @@ L08E2:	dec     _minerY
 	jsr     _checkTreasure
 	lda     _controlDelay
 	sta     _mvDelay
-L0530:	rts
+L0537:	rts
 
 .endproc
 
@@ -2804,7 +2804,7 @@ L0530:	rts
 
 	lda     _minerY
 	cmp     #$15
-	beq     L050A
+	beq     L0511
 	lda     _minerX
 	jsr     pusha0
 	lda     #$16
@@ -2830,7 +2830,7 @@ L0530:	rts
 	ldy     _x1
 	lda     _passable,y
 	cmp     #$01
-	bne     L050A
+	bne     L0511
 	inc     _minerY
 	lda     _minerX
 	jsr     pusha
@@ -2840,7 +2840,7 @@ L0530:	rts
 	jsr     _checkTreasure
 	lda     _controlDelay
 	sta     _mvDelay
-L050A:	rts
+L0511:	rts
 
 .endproc
 
@@ -2856,7 +2856,7 @@ L050A:	rts
 
 	ldx     #$00
 	lda     _minerY
-	beq     L08E7
+	beq     L08EE
 	lda     _minerX
 	jsr     pusha0
 	lda     #$16
@@ -2880,18 +2880,18 @@ L050A:	rts
 	lda     (ptr1),y
 	sta     _x1
 	cmp     #$09
-	bne     L054B
+	bne     L0552
 	sty     _stayHere
 	lda     #$01
 	sta     _caveDeath
 	ldx     #$00
 	rts
-L054B:	ldy     _x1
+L0552:	ldy     _x1
 	lda     _passable,y
-	bne     L08E6
+	bne     L08ED
 	tax
 	rts
-L08E6:	dec     _minerY
+L08ED:	dec     _minerY
 	lda     _minerX
 	jsr     pusha
 	lda     _minerY
@@ -2900,7 +2900,7 @@ L08E6:	dec     _minerY
 	jsr     _checkTreasure
 	ldx     #$00
 	txa
-L08E7:	rts
+L08EE:	rts
 
 .endproc
 
@@ -2916,7 +2916,7 @@ L08E7:	rts
 
 	lda     _minerY
 	cmp     #$15
-	beq     L051C
+	beq     L0523
 	lda     _minerX
 	jsr     pusha0
 	lda     #$16
@@ -2942,7 +2942,7 @@ L08E7:	rts
 	ldy     _x1
 	lda     _passable,y
 	cmp     #$01
-	bne     L051C
+	bne     L0523
 	inc     _minerY
 	lda     _minerX
 	jsr     pusha
@@ -2950,7 +2950,7 @@ L08E7:	rts
 	jsr     pusha
 	jsr     _setMinerPos
 	jmp     _checkTreasure
-L051C:	rts
+L0523:	rts
 
 .endproc
 
@@ -2979,45 +2979,45 @@ L051C:	rts
 	sta     _hiJump
 	lda     #$00
 	sta     _mvDelay
-	jmp     L08EC
-L0569:	jsr     _jumpUp
+	jmp     L08F3
+L0570:	jsr     _jumpUp
 	tax
-	beq     L059B
-	jmp     L056A
-L08E9:	lda     _mvDelay
-	bne     L057B
+	beq     L05A2
+	jmp     L0571
+L08F0:	lda     _mvDelay
+	bne     L0582
 	lda     $0278
 	sta     _hijs
 	cmp     #$06
-	beq     L058D
+	beq     L0594
 	cmp     #$07
-	beq     L058D
+	beq     L0594
 	cmp     #$0A
-	beq     L057F
+	beq     L0586
 	cmp     #$0B
-	bne     L08EA
-L057F:	lda     _y1
-	bne     L057B
+	bne     L08F1
+L0586:	lda     _y1
+	bne     L0582
 	jsr     _moveLeft
 	tax
-	beq     L057B
+	beq     L0582
 	lda     #$01
 	sta     _y1
-	jmp     L057B
-L058D:	lda     _y1
-	bne     L057B
+	jmp     L0582
+L0594:	lda     _y1
+	bne     L0582
 	jsr     _moveRight
 	tax
-	beq     L057B
+	beq     L0582
 	lda     #$01
 	sta     _y1
-	jmp     L057B
-L08EA:	lda     #$00
+	jmp     L0582
+L08F1:	lda     #$00
 	sta     _mvDelay
-L057B:	ldy     #$00
+L0582:	ldy     #$00
 	lda     (sp),y
 	cmp     $0014
-	beq     L059B
+	beq     L05A2
 	lda     $0014
 	sta     (sp),y
 	iny
@@ -3025,23 +3025,23 @@ L057B:	ldy     #$00
 	clc
 	adc     #$01
 	sta     (sp),y
-L059B:	ldy     #$01
+L05A2:	ldy     #$01
 	lda     (sp),y
 	iny
 	cmp     (sp),y
-	bcc     L08E9
+	bcc     L08F0
 	lda     _hiJump
 	cmp     #$02
-	bne     L08EB
+	bne     L08F2
 	lda     _hijumpSpeedB
 	sta     (sp),y
-L08EB:	lda     #$00
+L08F2:	lda     #$00
 	dey
 	sta     (sp),y
 	dec     _hiJump
-L08EC:	lda     _hiJump
-	jne     L0569
-L056A:	jsr     _checkDeath
+L08F3:	lda     _hiJump
+	jne     L0570
+L0571:	jsr     _checkDeath
 	lda     #>(_minerDataNormal)
 	sta     _minerData+1
 	lda     #<(_minerDataNormal)
@@ -3067,15 +3067,15 @@ L056A:	jsr     _checkDeath
 	sta     ptr1
 	lda     #$00
 	ldy     #$27
-L08ED:	sta     (ptr1),y
+L08F4:	sta     (ptr1),y
 	dey
-	bpl     L08ED
+	bpl     L08F4
 	lda     #$00
 	sta     _y1
 	tax
-L08EE:	lda     _y1
+L08F5:	lda     _y1
 	cmp     _lives
-	bcs     L08EF
+	bcs     L08F6
 	clc
 	adc     #<(_CLM_DATA_STATUSBARSCREEN)
 	sta     ptr1
@@ -3086,10 +3086,10 @@ L08EE:	lda     _y1
 	ldy     #$00
 	sta     (ptr1),y
 	inc     _y1
-	jmp     L08EE
-L08EF:	lda     _gameType
+	jmp     L08F5
+L08F6:	lda     _gameType
 	cmp     #$01
-	bne     L08F0
+	bne     L08F7
 	lda     #<(_CLM_DATA_STATUSBARSCREEN+32)
 	ldx     #>(_CLM_DATA_STATUSBARSCREEN+32)
 	jsr     pushax
@@ -3099,7 +3099,7 @@ L08EF:	lda     _gameType
 	ldx     #$00
 	lda     #$08
 	jmp     _memcpy
-L08F0:	lda     _currentCave
+L08F7:	lda     _currentCave
 	ldy     #$1B
 	jsr     incaxy
 	clc
@@ -3107,9 +3107,9 @@ L08F0:	lda     _currentCave
 	sta     _x1
 	lda     #$1B
 	sta     _y1
-L08F1:	lda     _y1
+L08F8:	lda     _y1
 	cmp     _x1
-	bcs     L05FC
+	bcs     L0603
 	clc
 	adc     #<(_CLM_DATA_STATUSBARSCREEN)
 	sta     ptr1
@@ -3120,8 +3120,8 @@ L08F1:	lda     _y1
 	ldy     #$00
 	sta     (ptr1),y
 	inc     _y1
-	jmp     L08F1
-L05FC:	rts
+	jmp     L08F8
+L0603:	rts
 
 .endproc
 
@@ -3151,13 +3151,13 @@ L05FC:	rts
 	cmp     #$0A
 	lda     #$00
 	tax
-	bcc     L08FA
+	bcc     L0901
 	lda     _x1
 	cmp     #$0D
-	bcc     L08F7
+	bcc     L08FE
 	txa
 	rts
-L08F7:	inc     _diamondsCollected
+L08FE:	inc     _diamondsCollected
 	lda     _minerX
 	jsr     pusha0
 	lda     #$16
@@ -3171,9 +3171,9 @@ L08F7:	inc     _diamondsCollected
 	tya
 	clc
 	adc     _minerY
-	bcc     L08F3
+	bcc     L08FA
 	inx
-L08F3:	sta     ptr1
+L08FA:	sta     ptr1
 	stx     ptr1+1
 	lda     #$00
 	tay
@@ -3191,13 +3191,13 @@ L08F3:	sta     ptr1
 	ldx     #$00
 	lda     _diamondsInCave
 	cmp     _diamondsCollected
-	bne     L08F8
+	bne     L08FF
 	stx     _stayHere
 	lda     #$01
 	sta     _caveAllPicked
-L08F8:	lda     #$01
+L08FF:	lda     #$01
 	rts
-L08FA:	rts
+L0901:	rts
 
 .endproc
 
@@ -3234,11 +3234,11 @@ L08FA:	rts
 	lda     (ptr1),y
 	sta     _x1
 	cmp     #$08
-	bne     L05B4
+	bne     L05BB
 	sty     _stayHere
 	lda     #$01
 	sta     _caveDeath
-L05B4:	rts
+L05BB:	rts
 
 .endproc
 
@@ -3253,6 +3253,11 @@ L05B4:	rts
 .segment	"CODE"
 
 	lda     #$00
+	sta     $022F
+	lda     #$01
+	jsr     pusha0
+	jsr     _delay
+	lda     #$00
 	sta     _gameOverType
 	jsr     _clrscr
 	lda     #$00
@@ -3262,10 +3267,10 @@ L05B4:	rts
 	sta     $0244
 	lda     $D01F
 	cmp     #$05
-	bne     L00A2
+	bne     L00A9
 	lda     #$0C
 	sta     _maxCaveReached
-L00A2:	jsr     _rmtSuspend
+L00A9:	jsr     _rmtSuspend
 	jsr     _rmtSetVBI
 	lda     $0230
 	sta     _menuDl1
@@ -3276,7 +3281,7 @@ L00A2:	jsr     _rmtSuspend
 	lda     #$01
 	sta     $02DB
 	jsr     _pmgInit
-L00BB:	lda     #$00
+L00C2:	lda     #$00
 	sta     $022F
 	lda     #$02
 	jsr     pusha0
@@ -3290,33 +3295,33 @@ L00BB:	lda     #$00
 	sta     $022F
 	lda     _gameOverType
 	cmp     #$01
-	beq     L00D8
+	beq     L00DF
 	cmp     #$02
-	beq     L00E1
+	beq     L00E8
 	cmp     #$03
-	beq     L00EA
-	jmp     L00D5
-L00D8:	jsr     _rmtSuspend
+	beq     L00F1
+	jmp     L00DC
+L00DF:	jsr     _rmtSuspend
 	lda     #$0E
 	jsr     pusha
 	jsr     _playSongLine
 	jsr     _rmtResume
 	jsr     _displayGameOver
-	jmp     L00D5
-L00E1:	jsr     _rmtSuspend
+	jmp     L00DC
+L00E8:	jsr     _rmtSuspend
 	lda     #$10
 	jsr     pusha
 	jsr     _playSongLine
 	jsr     _rmtResume
 	jsr     _displayCongratulations
-	jmp     L00D5
-L00EA:	jsr     _rmtSuspend
+	jmp     L00DC
+L00F1:	jsr     _rmtSuspend
 	lda     #$10
 	jsr     pusha
 	jsr     _playSongLine
 	jsr     _rmtResume
 	jsr     _displayReturnToMenuScreen
-L00D5:	jsr     _rmtSuspend
+L00DC:	jsr     _rmtSuspend
 	lda     #$00
 	jsr     pusha
 	jsr     _playSongLine
@@ -3329,44 +3334,44 @@ L00D5:	jsr     _rmtSuspend
 	jsr     _displayMainMenu
 	jsr     _kbhit
 	tax
-	beq     L08FC
+	beq     L0903
 	jsr     _cgetc
-L08FC:	lda     $0284
-	beq     L08FC
+L0903:	lda     $0284
+	beq     L0903
 	lda     $0278
 	cmp     #$0F
-	bne     L08FC
-L08FE:	lda     $0284
-	bne     L08FF
+	bne     L0903
+L0905:	lda     $0284
+	bne     L0906
 	sta     $004D
 	sta     _gameType
-	jmp     L0904
-L08FF:	lda     $0278
+	jmp     L090B
+L0906:	lda     $0278
 	cmp     #$07
-	bne     L0900
+	bne     L0907
 	lda     _startingCave
 	cmp     _maxCaveReached
-	bcs     L0900
+	bcs     L0907
 	inc     _startingCave
 	jsr     _displayStartingCave
 	lda     #$0A
 	jsr     pusha0
 	jsr     _delay
-	jmp     L08FE
-L0900:	lda     $0278
+	jmp     L0905
+L0907:	lda     $0278
 	cmp     #$0B
-	bne     L0901
+	bne     L0908
 	lda     _startingCave
-	beq     L0901
+	beq     L0908
 	dec     _startingCave
 	jsr     _displayStartingCave
 	lda     #$0A
 	jsr     pusha0
 	jsr     _delay
-	jmp     L08FE
-L0901:	lda     $0278
+	jmp     L0905
+L0908:	lda     $0278
 	cmp     #$0D
-	bne     L0902
+	bne     L0909
 	lda     #$01
 	sec
 	sbc     _gameSpeed
@@ -3375,31 +3380,31 @@ L0901:	lda     $0278
 	lda     #$0A
 	jsr     pusha0
 	jsr     _delay
-	jmp     L08FE
-L0902:	lda     $0278
+	jmp     L0905
+L0909:	lda     $0278
 	cmp     #$0E
-	bne     L0137
+	bne     L013E
 	lda     #$00
 	sta     $004D
 	jsr     _displayTrainingText
 	lda     #$01
 	sta     _gameType
-	jmp     L0903
-L0137:	jsr     _kbhit
+	jmp     L090A
+L013E:	jsr     _kbhit
 	tax
-	jeq     L08FE
+	jeq     L0905
 	jsr     _cgetc
 	sta     _x1
 	cmp     #$1B
-	jne     L08FE
+	jne     L0905
 	jsr     _rmtAllStop
 	jsr     _rmtRestoreVBI
 	jsr     _asmReboot
 	ldx     #$00
 	txa
 	rts
-L0903:	lda     #$00
-L0904:	sta     _gameOverType
+L090A:	lda     #$00
+L090B:	sta     _gameOverType
 	lda     _gameSpeed
 	jsr     pusha
 	jsr     _get_tv
@@ -3412,7 +3417,7 @@ L0904:	sta     _gameOverType
 	jsr     _playSongLine
 	jsr     _rmtResume
 	jsr     _doGame
-	jmp     L00BB
+	jmp     L00C2
 
 .endproc
 

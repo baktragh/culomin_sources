@@ -64,6 +64,7 @@ extern unsigned char  CLM_DATA_STATUSBARSCREEN;
 
 
 #define FULL_DMA (62)
+#define NORMAL_DMA (34)
 
 
 /*Movement when miner is falling*/
@@ -319,7 +320,12 @@ unsigned char elem2CharMap[] = {
 
 int main() {
 
+
+  
     /*Initialize*/
+    POKE(559,0);
+    delay(1);
+    
     gameOverType = GAME_OVER_NONE;
     clrscr();
     maxCaveReached = 0;
