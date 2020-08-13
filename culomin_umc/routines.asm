@@ -1,8 +1,9 @@
 ;===============================================================================
 ;Curse of the lost miner
+;Assembler routines
 ;===============================================================================
 
-;Supplementary variables
+;Auxiliary variables
 .segment "DATA"
 _vbistorel:
 .byte 0
@@ -24,9 +25,8 @@ _songLine:
 .byte 0
 
 ;==============================================================================
-; DLI Different colors and character set for status bar
+; DLI - Different colors and character set for status bar
 ;==============================================================================
-
 .segment "CODE"
 _dliHandler:
 	pha
@@ -57,38 +57,35 @@ _dliHandler2:
 	rti
 
 ;===============================================================================
-;VBI. Movement delay, Calling RMT.
+;VBI. Movement delay, Calling RMT. Deferred VBI
 ;===============================================================================
 
 ; Some definitions
-
 vRMT_BASE = 28672+1024
 vRMT_SFX  = vRMT_BASE+15
 vRMT_UPDATE = vRMT_BASE+3 
 vRMT_STOP = vRMT_BASE+6
-
 aRMT_MUSIC = 32768
-
-
 
 .segment "CODE"
 _vbiRoutine:
-	php
-	pla
-	;movement delay
+
+	;Movement delay
 	lda _mvDelay
 	cmp #0
 	beq _n
 	dec _mvDelay
 	
-	;if audio is suspended, do not call RMT routines
+	;If audio is suspended, do not call RMT routines
 _n:	lda _suspend
 	cmp #0
 	bne _x1
-	;if SFX not requested, continue to music update
+    
+	;If SFX not requested, continue to music update
 	lda _sfx
 	cmp #0
 	beq _x
+    
 	;SFX
 	ldx #3
 	lda #30
@@ -96,11 +93,11 @@ _n:	lda _suspend
 	jsr vRMT_SFX
 	lda #0
 	sta _sfx
+    
 	;Music update - Call RMT	
 _x:	jsr vRMT_UPDATE	
-
 	;Call original VBI routine
-_x1:	jmp (_vbistorel)
+_x1: jmp $E462
 
 
 ;===============================================================================
@@ -207,7 +204,7 @@ _x1:	jmp (_vbistorel)
 .endproc
 
 ;===============================================================================
-; Auxiliarey routines
+; Auxiliary routines
 ;===============================================================================
 
 ;-OS call - cold start--------

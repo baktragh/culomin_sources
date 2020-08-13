@@ -290,6 +290,9 @@ unsigned char elem2CharMap[] = {
 
 int main() {
 
+    POKE(559,0);
+    delay(1);
+    
     /*Initialize*/
     gameOverType = GAME_OVER_NONE;
     clrscr();
@@ -318,6 +321,7 @@ int main() {
 
     /*Init the PMG*/
     pmgInit();
+    POKE(559,62);
 
     /*Enclosing loop*/
     while (1) {
@@ -1200,7 +1204,7 @@ void displayMainMenu() {
     /*             123456789012345678901234567890123456789 */
     cputsxy(1, 1, "       CURSE OF THE  LOST MINER       ");
     cputsxy(1, 2, "    UNDERGROUND  MADNESS CHALLENGE    ");
-    cputsxy(1, 3, "         BAKTRA Software 2015         ");
+    cputsxy(1, 3, "          BAHA Software 2020          ");
     revers(0);
 
     /*Lines above and below the title*/
@@ -1222,7 +1226,7 @@ void displayMainMenu() {
     cputsxy(2, 20, "caves quickly, leave broken rocks");
     cputsxy(2, 21, "intact, and do not lose lives.");
 
-    cputsxy(35, 23, "v1.0");
+    cputsxy(35, 23, "v1.1");
 
     /*Description of menu controls*/
     cputsxy(2, 8, "Press");
